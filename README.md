@@ -27,7 +27,7 @@ npx http-server . -p 9001
 이후 `http://localhost:9001` 접속.
 
 ### GitHub Pages 배포
-`https://jazzdevils.github.io/nishitokyo-life-support-card-map` 에서 바로 접속 가능.
+<a href="https://jazzdevils.github.io/nishitokyo-life-support-card-map" target="_blank">https://jazzdevils.github.io/nishitokyo-life-support-card-map</a> 에서 바로 접속 가능.
 
 ## 기술 스택 (Tech Stack)
 
