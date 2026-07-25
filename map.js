@@ -1,4 +1,3 @@
-@ -0,0 +1,150 @@
 /**
  * Map module — renders store locations on a Leaflet map.
  * 
