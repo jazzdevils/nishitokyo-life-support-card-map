@@ -19,9 +19,9 @@ let map = null;
 // --- Map initialization ---
 export function initMap() {
     map = L.map('map').setView([35.7600, 139.4900], 13);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
         maxZoom: 19,
-        attribution: '© OpenStreetMap contributors, © CARTO'
+        attribution: 'Map tiles by Stamen, under CC BY 3.0. Data by OpenStreetMap, under ODbL.'
     }).addTo(map);
 }
 
