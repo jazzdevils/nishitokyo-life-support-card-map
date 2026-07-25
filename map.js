@@ -18,7 +18,7 @@ let map = null;
 // --- Map initialization ---
 export function initMap() {
     map = L.map('map').setView([35.7600, 139.4900], 13);
-    L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/rastertiles/voyager/{z}/{x}/{y}.png', {
+    L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: 'Map tiles by CARTO, under CC BY 3.0. Data by OpenStreetMap, under ODbL.'
     }).addTo(map);
