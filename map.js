@@ -1,3 +1,4 @@
+@ -0,0 +1,150 @@
 /**
  * Map module — renders store locations on a Leaflet map.
  * 
@@ -18,9 +19,9 @@ let map = null;
 // --- Map initialization ---
 export function initMap() {
     map = L.map('map').setView([35.7600, 139.4900], 13);
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
-        attribution: 'Map tiles by CARTO, under CC BY 3.0. Data by OpenStreetMap, under ODbL.'
+        attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 }
 
