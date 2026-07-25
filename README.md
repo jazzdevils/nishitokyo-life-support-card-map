@@ -9,6 +9,8 @@ Leaflet.js + OpenStreetMap を使用し、データは JSON ファイルとし�
 
 ## 데이터 (Data)
 
+<a href="https://nishitokyo-cheering2026.com/list/" target="_blank">参加店舗一覧</a> 참고.
+
 - `stores_with_coords.json` — 667개 매장의 좌표 (570개 정확한 Google Maps 좌표 + 97개 동네 중심점 좌표)
 - `search_urls.json` — 667개 Google Maps 검색 URL (원본 데이터)
 - `geocoding_progress.json` — 지오코딩 진행 상황 (중간 파일)
