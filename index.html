@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>西東京市 生活応援カード 参加店舗マップ</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Meiryo', sans-serif;
+        }
+        
+        #map {
+            height: 100vh;
+            width: 100vw;
+        }
+        
+        /* Filter Panel */
+        .filter-panel {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            max-width: 300px;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        
+        .filter-panel h2 {
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        
+        .filter-panel .category-list {
+            list-style: none;
+        }
+        
+        .filter-panel .category-list li {
+            margin-bottom: 8px;
+        }
+        
+        .filter-panel .category-list label {
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .filter-panel .category-list input[type="checkbox"] {
+            cursor: pointer;
+        }
+        
+        .filter-panel .buttons {
+            margin-top: 15px;
+            display: flex;
+            gap: 10px;
+        }
+        
+        .filter-panel .buttons button {
+            flex: 1;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #f5f5f5;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        
+        .filter-panel .buttons button:hover {
+            background: #e0e0e0;
+        }
+        
+        .filter-panel .store-count {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #eee;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        /* Popup styling */
+        .custom-popup .popup-content {
+            font-size: 14px;
+        }
+        
+        .custom-popup .popup-content h3 {
+            margin: 0 0 8px 0;
+            font-size: 16px;
+            color: #333;
+        }
+        
+        .custom-popup .popup-content p {
+            margin: 4px 0;
+            color: #666;
+        }
+        
+        .custom-popup .popup-content .category {
+            color: #0066cc;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    
+    <!-- Filter Panel -->
+    <div class="filter-panel">
+        <h2>業種フィルター</h2>
+        <ul class="category-list" id="categoryList">
+            <!-- Categories will be inserted here by JavaScript -->
+        </ul>
+        <div class="buttons">
+            <button id="selectAllBtn">すべて選択</button>
+            <button id="clearAllBtn">すべて解除</button>
+        </div>
+        <div class="store-count">
+            表示中: <span id="visibleCount">0</span> / <span id="totalCount">0</span> 店舗
+        </div>
+    </div>
+    
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+    
+    <!-- Map module -->
+    <script type="module">
+        import { initMap, loadStoreData } from './map.js';
+        
+        initMap();
+        loadStoreData('stores_with_coords.json');
+    </script>
+</body>
+</html>

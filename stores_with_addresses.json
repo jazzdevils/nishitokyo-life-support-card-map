@@ -1,0 +1,765 @@
+{
+  "stores": [
+    {
+      "name": "つばさ薬局",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北4-2-26",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0417179e6249617be2e72006657dc75d",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "おむすびころりん",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0015　東京都西東京市保谷町3-11-25",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/5a51bab94fd5219f33369ae8b21f5e7f",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "マイスターメガネ",
+      "category": "電気製品・時計・メガネ・写真",
+      "address": "〒202-0015　東京都西東京市保谷町3-12-15",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/76ff45ba8234032945164a704e0c8f35",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "エネフィット清水商事",
+      "category": "住まい・環境・工事・修理",
+      "address": "〒188-0001　東京都西東京市谷戸町3-17-5",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/94fe94d595ceb73f6e7c6fe33766297b",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "博文堂書店田無店",
+      "category": "その他",
+      "address": "〒188-0011　東京都西東京市田無町4-28-17 田無マーブルビル　1階",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/6f2e590e46509c4e88e9c0eebba2cb55",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ビューティーサロンドア",
+      "category": "理容・美容・エステティック",
+      "address": "〒188-0012　東京都西東京市南町4-4-2 プリンスプラザ田無　110",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/886c98a3835c6d99dabe7a3b0d56c608",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "はり・きゅう好生堂",
+      "category": "健康・医療",
+      "address": "〒202-0014　東京都西東京市富士町5-6-12 サンケンパレス東伏見１F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/dcf08b9e671e0b8c5b00c9cee29cb95b",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "蘭花車",
+      "category": "パン・和菓子・洋菓子",
+      "address": "〒188-0011　東京都西東京市田無町4-26-3",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/528e3a8d24bd1bd43bdda145edbab620",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "中国料理　栄福",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0015　東京都西東京市保谷町3-6-8",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/14e54e18053d90de37fa24b3eb0b23db",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "鶏・豚七輪焼　けむりや",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町4-26-4",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/b7f97f20684a1ec4d944f6f5f4983e80",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチソレイユ保谷店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0012　東京都西東京市東町3-13-19 ソレイユビル１Ｆ",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/20f4f1f20be716b515dd559ee5efd497",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチ東伏見店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0021　東京都西東京市東伏見3-1-25",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0186e5bbb176e5aba11f49ded90c4e4f",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチ西武柳沢北口店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0015　東京都西東京市保谷町3-11-5",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/415c4051147000e50b36408d7cf66fca",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチ中町店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0013　東京都西東京市中町4-8-21 アルソーレ１Ｆ",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/719eeeab9682403adba9c05790736dea",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチ東町店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0012　東京都西東京市東町2-14-11",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/21392f9837d7b464b4c0e170940f8581",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチ東伏見稲荷店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0021　東京都西東京市東伏見2-2-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/258aa180bb78d2ca340881db5f2d4a51",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチ東町郵便局前店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0012　東京都西東京市東町2-16-24 ハイツマキシム１Ｂ号室",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/db080e9214c34bd57cfdf2036c62a9da",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "くすりのダイイチ東伏見北口店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0014　東京都西東京市富士町4-14-14 三星ビル１Ｆ",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/1536b2c81ef353b342b8edb9867971c3",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "BARBER HAGIWARA",
+      "category": "理容・美容・エステティック",
+      "address": "〒188-0011　東京都西東京市田無町2-15-15",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/078ec95913ba6a65b89edbf9797aeccf",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "すし処玉八",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0012　東京都西東京市南町3-1-13 センチュリーホームパート2",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/5bb7a3955bbedb1120cd4e27bad8a5af",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "手羽夢中",
+      "category": "居酒屋・スナック",
+      "address": "〒202-0021　東京都西東京市東伏見2-3-2 開仁ビル1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/f79e2e841abbd5b721e72bb7cfd6f923",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ステーキハウス　テキサス東伏見店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0021　東京都西東京市東伏見2-4-6 若宮ビル2F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/d52ec6fb1d2834989948861fb0377c90",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "豚風",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0012　東京都西東京市東町4-14-2 いずみハイム一階Ｂ号",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/2d2d727f6e598f16fb84399ee7f17a6a",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "Comodo Coffee Roasters",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0012　東京都西東京市南町3-3-19 渡辺ビル1階",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/ee61064c691e3e9875afa385133ff415",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "味噌屋蔵之介ひばりヶ丘店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北4-1-30 SRビル1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/602f121af643e8edf6c815cfda230d7c",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ラーメン専門　味一",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0014　東京都西東京市富士町4-17-7 片井木ビル1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/77ab052561b0b4d5269decc7a1687810",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "楽学舎ロボットプログラミング教室　ひばりが丘教室",
+      "category": "その他",
+      "address": "〒202-0001　東京都西東京市ひばりが丘3-4-47 ひばりテラス118",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/c64b8fdd68f14bf87cc076f827d89de5",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "楽学舎ロボットプログラミング教室　田無教室",
+      "category": "その他",
+      "address": "〒188-0012　東京都西東京市南町5-25-14 どんぐり",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/4fb3c1756b6a96e74a300c883da58c89",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "墨花居田無店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町4-24-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/bceac2f91e760c7b1fd8877086111f18",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "武蔵野食堂　田無店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町4-3-13",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/fe7588c488614b906712c0031a1b46b3",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "武蔵野茶房田無本店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町4-3-12",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/35bbca537796ebba9c34c30a64f9de46",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "武蔵野菓子工房　田無本店",
+      "category": "パン・和菓子・洋菓子",
+      "address": "〒188-0011　東京都西東京市田無町4-29-5",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/7b5b22fb7886c98d918a32cb66778e1d",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "お米ひろば野口屋",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "address": "〒202-0012　東京都西東京市東町3-5-5",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/c84e7c4b1f3d8ad5b7d208884c63a8ec",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "武蔵野茶房　田無ASTA店　＜田無アスタ専門店街＞",
+      "category": "パン・和菓子・洋菓子",
+      "address": "〒188-0011　東京都西東京市田無町2-1-1 田無アスタ専門店街B1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/d32a7b00caa9bc0b399543bb5a552ced",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "うなぎ さ和野",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0001　東京都西東京市谷戸町1-2-3",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/a259a99c069e831709c432aa679306f4",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "Fio Nuku",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0013　東京都西東京市中町5-3-20",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/092a90582a00080db9659d679650655a",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ombres douces",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "address": "〒202-0001　東京都西東京市ひばりが丘2-8-14",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/ba8452e5d69205b402018b2cda2e6505",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "（有）栗本商店",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "address": "〒188-0012　東京都西東京市南町1-5-14",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0b620e586e84a7c667e9a693599884b6",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "フジタ電気",
+      "category": "住まい・環境・工事・修理",
+      "address": "〒202-0003　東京都西東京市北町1-4-25",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/ad23a78b3bcedda11ba9456c3108da7e",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "古畑装飾株式会社",
+      "category": "その他",
+      "address": "〒188-0001　東京都西東京市谷戸町3-27-24",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/ef0065f5a90de4f35a92ee721e7b8677",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "友愛鍼灸接骨院",
+      "category": "健康・医療",
+      "address": "〒188-0001　東京都西東京市谷戸町1-23-7 JUN谷戸ハイツ108",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/1d371ad19416b019649aa778476e842e",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ムサシノコーヒー",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町4-4-15 宮田ビル１F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/f3c76470d9a6f083949642c0c8fa9248",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "西東京グリーン薬局",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒188-0011　東京都西東京市田無町2-2-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/aa830860419c0798e8f020b7487026be",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "一般社団法人ぽろんのいえ",
+      "category": "その他",
+      "address": "〒202-0011　東京都西東京市泉町4-5-4",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/8aafea50fbcafcf1d51ee62e3609b667",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "時計宝飾眼鏡　サガワ",
+      "category": "電気製品・時計・メガネ・写真",
+      "address": "〒202-0022　東京都西東京市柳沢6-4-3 102",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/fbdac7d46ebf65157e4c7bc3bfa5b3c5",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "たべあるきのお店",
+      "category": "パン・和菓子・洋菓子",
+      "address": "〒202-0014　東京都西東京市富士町4-27-",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/a58cb068248f7cfa4b7055edd736f125",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "TRATTORIA E PIZZERIA L'INCANTO",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0004　東京都西東京市下保谷4-8-18 annex manor 102",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/228c6a7346bbb41ace969b60fdd83a9a",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ヘアーサロン　アベ",
+      "category": "理容・美容・エステティック",
+      "address": "〒188-0014　東京都西東京市芝久保町1-20-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/5dddd5d8847cdbfaf2188e6c5c16048b",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "細沼園",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "address": "〒188-0011　東京都西東京市田無町3-2-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/fd3f0c9598f4684aff48a0be41a1d71a",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "補聴器専門店　きりん堂",
+      "category": "健康・医療",
+      "address": "〒188-0011　東京都西東京市田無町4-16-5 モンテローザ田無1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/3886c44d182059ef176c60ba77f03bd6",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "grazioso",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町4-28-14 NTビル",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/9fe7a6273428691170ce08bfb0ad09a3",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "鍼灸梅庵",
+      "category": "健康・医療",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北4-7-18 エムアールひばりが丘106",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/9a53335664472c8a0e0fe54d98422640",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "麵屋ジャイアン田無本店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町2-9-1 大森ビル1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/d163f500988c20d3017723dbcec31a04",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "カレーとデミ　カサネヤ　『　※Google Mapは現在修正中です。』",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町2-2-3 スカイビル1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/77d80791e26bc0a59d8f8e8a5ec0e4d9",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ロクトショクドウ",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0014　東京都西東京市芝久保町5-10-64 多摩六都科学館内カフェ",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/9bb09c34b704f941e7bff98a32008f80",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "中国料理　仲達",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町2-22-10 コーポ仲達1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/1df4cd312e0f0df1bc40e371b1f3fa51",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "橋本商店",
+      "category": "衣料品・靴・雑貨・寝具",
+      "address": "〒202-0015　東京都西東京市保谷町3-11-25 リアンC",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/1b8ad2d9c8fddfb2aacca639703b1691",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "エルミタージュ",
+      "category": "理容・美容・エステティック",
+      "address": "〒188-0013　東京都西東京市向台町6-11-2",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/dc5fe7f24a218ba9b97ff30887df5c16",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "にくきゅうカフェ",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0012　東京都西東京市南町6-7-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/637df7671ae02187bc238edb804690bf",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "一八亭",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0022　東京都西東京市柳沢2-1-23 リバーランド柳沢1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0ba9fb734383aac319b0faa027b1e390",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "Hair ＣＬＥＡ",
+      "category": "理容・美容・エステティック",
+      "address": "〒188-0001　東京都西東京市谷戸町3-11-5 ベルトピアひばりヶ丘101",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/88f87360a3d202cadb9cf9d9a8a27b4c",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "たみ整骨院",
+      "category": "健康・医療",
+      "address": "〒202-0015　東京都西東京市保谷町3-24-25 メゾン武蔵パート2　101",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/c089ef81ab3730d9a442f4e2a5704f5d",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "おそうじやさん西東京本店",
+      "category": "住まい・環境・工事・修理",
+      "address": "〒202-0003　東京都西東京市北町2-6-10",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/4ac174247bea72050dc5a9a6b1aa9c53",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "アジュール",
+      "category": "パン・和菓子・洋菓子",
+      "address": "〒202-0015　東京都西東京市保谷町3-22-4",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/7dfcf61ae8dac2acbbaa70b736bcd66d",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ナカムラ水産　田無店　＜田無アスタ専門店街＞",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "address": "〒188-0011　東京都西東京市田無町2-1-1 田無アスタ専門店街B1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/e480f3bd52a1e8f727c23c35d7a97ed5",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "まちのリハビリ屋さん リハビリ整体院",
+      "category": "健康・医療",
+      "address": "〒188-0011　東京都西東京市田無町2-13-21 加藤ビル102",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/bb30c1cf1993562d502aa07880eb7b55",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ユニーク",
+      "category": "理容・美容・エステティック",
+      "address": "〒188-0001　東京都西東京市谷戸町3-23-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/af8975754e79962692d1e61cc113e259",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "フルーツあきやま　＜田無アスタ専門店街＞",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "address": "〒188-0011　東京都西東京市田無町2-1-1 田無アスタ専門店街1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/2e8c0f047be0eaca9e83dfa918c91f90",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "田無プラザ薬局",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒188-0011　東京都西東京市田無町4-21-11",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/7a2d91f3211d6d51a951f7df428971f2",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "グーテドヨーコ",
+      "category": "パン・和菓子・洋菓子",
+      "address": "〒202-0023　東京都西東京市新町1-13-10 NEIGHBORS 西東京",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/9eb4f1dfe2a3ce3302be8770f812067c",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "薬局ホームケアファーマシー田無店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒188-0011　東京都西東京市田無町4-24-18",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/597a8b0bd06597e59e673d35c30ef481",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ホリスタジオ",
+      "category": "その他",
+      "address": "〒188-0011　東京都西東京市田無町3-1-15 ライオンズマンション田無本町102",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/ad57dd319186b26d976697b7857d565a",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "田無本町調剤薬局",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒188-0011　東京都西東京市田無町4-25-5",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/aac258533a8b8bc637b6795088ecf5be",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ひばりが丘にっこり鍼灸整骨院",
+      "category": "健康・医療",
+      "address": "〒188-0001　東京都西東京市谷戸町2-16-10 ルミエールひばりが丘1階B号室",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/cc67372075565d402b2d5c381c4bc2a0",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "南町調剤薬局",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒188-0012　東京都西東京市南町3-25-4",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/7342eadad6f4a3dbcd6c07661c93397b",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "手づくりハム工房　カッセル　＜田無アスタ専門店街＞",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "address": "〒188-0011　東京都西東京市田無町2-1-1 田無アスタ専門店街B1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/f1f1d4f5eb3aa534604efc5d3f0d8e87",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "エスポアはせがわ",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "address": "〒202-0001　東京都西東京市ひばりが丘1-4-29",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/908897b37e7df74e1d4f29622846d20a",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ばんべーる",
+      "category": "居酒屋・スナック",
+      "address": "〒202-0001　東京都西東京市ひばりが丘1-4-29",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/ebd61cfe495e5bc9477e2c94697bf2b2",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "アイシティ田無アスタ店　＜田無アスタ専門店街＞",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒188-0011　東京都西東京市田無町2-1-1 田無アスタ専門店街3F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/d62c4c804a2db5c8d87b3fe192e362c3",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "HairSalon  IVORY",
+      "category": "理容・美容・エステティック",
+      "address": "〒188-0011　東京都西東京市田無町6-6-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/2cb70b43f49fc175da9f45fa24d845a4",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "21 Brew Cave",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0001　東京都西東京市谷戸町1-23-7 JUN谷戸ハイツ1F-2号室",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/8e1940f7961b21014a17b94d23b132f5",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "丸大",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "address": "〒202-0011　東京都西東京市泉町4-4-10",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/42c1614e04cddb63183f769d63e985d4",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "美容室Kukka",
+      "category": "理容・美容・エステティック",
+      "address": "〒202-0014　東京都西東京市富士町4-18-12 メゾンドパル１Ｆ",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0bafd4e61146362dfa086075bcd5ff2d",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "パナピットいいだ",
+      "category": "電気製品・時計・メガネ・写真",
+      "address": "〒188-0014　東京都西東京市芝久保町4-22-13",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/f980e34ae56263c64c21b7f010111b97",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "Private care salon Kaoru fleur",
+      "category": "理容・美容・エステティック",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北3-7-8 ADVANCE 302",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/e6cb5259b71bb5eef58a2c4166475542",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "お米のひらまつ",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "address": "〒202-0006　東京都西東京市栄町1-15-34",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/1f4b8be9b0aa70057bec5fe920bed482",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "西東京生協歯科",
+      "category": "健康・医療",
+      "address": "〒202-0001　東京都西東京市ひばりが丘2-6-29",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/d84694e680a9d5c884a4b748da646b7f",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "モトショップ次郎",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "address": "〒202-0022　東京都西東京市柳沢2-10-21 サンハイツ柳沢102",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/1dd4a876b24f8321847229be0c496e95",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "まちテナ西東京",
+      "category": "その他",
+      "address": "〒188-0011　東京都西東京市田無町4-1-2 田無駅改札横",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/a2753eeece34f88fe1d5f3f75828a7f0",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ChouChouNature",
+      "category": "理容・美容・エステティック",
+      "address": "〒202-0005　東京都西東京市住吉町1-8-4",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0fd1799422f71681b37ca3d755e322a4",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "溶岩窯のパン工房グラスハープ",
+      "category": "パン・和菓子・洋菓子",
+      "address": "〒188-0011　東京都西東京市田無町7-3-32 並木パレス1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/7146ae9d5d2a5814995bed9dd8208768",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "明喜屋",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0015　東京都西東京市保谷町3-11-3",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/33246c320808d7bf19d8911504193d42",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ブティック　パメラ",
+      "category": "衣料品・靴・雑貨・寝具",
+      "address": "〒188-0011　東京都西東京市田無町5-1-13 ハイセレサ田無町104",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/78732a7eaea7b08ff097862c20474c77",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "上田鍼灸整骨院",
+      "category": "健康・医療",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北4-1-30",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/5a7de764829bdbd1bda0e1a8cb51446c",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "漢方上田薬店",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北4-1-30",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/6e7f755b0bc7774920502a4a0c4345ce",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ヘルシースリムウエダ",
+      "category": "理容・美容・エステティック",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北4-1-30 ドーマアルエット2Ｆ",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0ff96e1312d7422757357690609e44f2",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "pirka",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0015　東京都西東京市保谷町3-24-25 1階",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/0b05dbd31ea5791db7848cf7ca1014df",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "エニータイムオオゼキ",
+      "category": "電気製品・時計・メガネ・写真",
+      "address": "〒202-0012　東京都西東京市東町4-13-23",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/ddf2995911295db2e13b3b74dc5aca6c",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "たかはし鍼灸院・整骨院〜Repos〜",
+      "category": "健康・医療",
+      "address": "〒188-0012　東京都西東京市南町5-26-19",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/8aa06b9fe049e5674f0091475646bac7",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "風琳青果",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "address": "〒202-0012　東京都西東京市東町2-15-25",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/a6c603aed3f829a8adb3872b4e05abc5",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "L&W山城屋",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "address": "〒188-0003　東京都西東京市北原町1-34-8",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/f2723d05c247a9846d81457a08e7d56b",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "Bar楽園",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0015　東京都西東京市保谷町5-5-14",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/6d289e3b39f525e422ba56a4692d071f",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "サンドイッチ＆コーヒー　Carmel",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0003　東京都西東京市北原町3-4-11",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/13849f184db61423de85e7e64d446fc3",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "正札堂洋品店",
+      "category": "衣料品・靴・雑貨・寝具",
+      "address": "〒202-0022　東京都西東京市柳沢3-1-1",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/f92b6cfe26140f7645b87be180b12b30",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "なっちゃんち",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町2-16-10 1階",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/444067a3a9c39fe37576aebc7ee414c9",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "ステーキハウス TEXAS 田無店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒188-0011　東京都西東京市田無町3-3-7 海老澤第一ビル1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/2f50560c3ffc1fd1605cf26478a48188",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "窓庭工房",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "address": "〒188-0001　東京都西東京市谷戸町1-23-5",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/32bd4c2968d87eecdb37094514a3cbe5",
+      "location_source": "geocoding_failed"
+    },
+    {
+      "name": "STEAK MAN ひばりが丘店",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "address": "〒202-0002　東京都西東京市ひばりが丘北3-5-22 野島第2ビル1F",
+      "detail_url": "https://nishitokyo-cheering2026.com/list/detail/e5f9be6a0424bdc3430acd28946f0177",
+      "location_source": "geocoding_failed"
+    }
+  ],
+  "metadata": {
+    "total_stores": 108,
+    "parsed_at": "2026-07-24 16:21:51",
+    "source": "https://nishitokyo-cheering2026.com/list/"
+  }
+}

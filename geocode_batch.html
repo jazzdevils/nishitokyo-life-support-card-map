@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Store Geocoding Batch Processor</title>
+<style>
+body { font-family: monospace; padding: 20px; background: #1e1e1e; color: #fff; }
+#status { font-size: 18px; margin-bottom: 10px; }
+#progress { margin: 10px 0; padding: 10px; background: #333; border-radius: 5px; }
+#log { max-height: 400px; overflow-y: auto; margin-top: 10px; padding: 10px; background: #000; }
+.success { color: #4caf50; }
+.fail { color: #f44336; }
+</style>
+</head>
+<body>
+<h1>🗺️ Store Geocoding Batch Processor</h1>
+<div id="status">Initializing...</div>
+<div id="progress"></div>
+<div id="log"></div>
+
+<script>
+const statusEl = document.getElementById('status');
+const progressEl = document.getElementById('progress');
+const logEl = document.getElementById('log');
+
+let results = [];
+let successCount = 0;
+let fallbackCount = 0;
+const BATCH_SIZE = 50;
+
+function log(msg, type = '') {
+    const div = document.createElement('div');
+    div.textContent = msg;
+    if (type) div.className = type;
+    logEl.appendChild(div);
+    logEl.scrollTop = logEl.scrollHeight;
+}
+
+// Extract coordinates from Google Maps URL
+function extractCoords(url) {
+    const match = url.match(/\/@(-?\d+\.\d+),(-?\d+\.\d+),/);
+    if (match) {
+        return { lat: parseFloat(match[1]), lng: parseFloat(match[2]) };
+    }
+    return null;
+}
+
+// Search store on Google Maps using iframe workaround
+async function geocodeStore(store, index, total) {
+    const query = encodeURIComponent(store.name + ' ' + store.neighborhood + ' 西東京市');
+    
+    // Use Google Maps embed API to get coordinates
+    const embedUrl = `https://www.google.com/maps/embed/v1/place?key=&q=${query}`;
+    
+    try {
+        // Try fetching the search page and parsing coordinates from response
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 5000);
+        
+        const resp = await fetch(`https://www.google.co.jp/maps/search/${query}`, {
+            signal: controller.signal,
+            redirect: 'manual'
+        });
+        
+        clearTimeout(timeout);
+        
+        // If we get a redirect, extract coords from redirect URL
+        if (resp.type === 'opaqueredirect' || resp.url) {
+            const coords = extractCoords(resp.url);
+            if (coords) {
+                return { ...coords, source: 'google_maps' };
+            }
+        }
+    } catch (e) {
+        // CORS or network error - expected
+    }
+    
+    // Fallback: use neighborhood centroid
+    return null;
+}
+
+async function start() {
+    log('Loading store data...');
+    
+    try {
+        const resp = await fetch('/stores_with_coords.json');
+        const data = await resp.json();
+        const stores = data.stores;
+        const total = stores.length;
+        
+        statusEl.textContent = `Loaded ${total} stores. Starting geocoding...`;
+        log(`Starting geocoding for ${total} stores`);
+        
+        // Process in batches
+        for (let i = 0; i < total; i++) {
+            const store = stores[i];
+            const query = encodeURIComponent(store.name + ' ' + store.neighborhood + ' 西東京市');
+            
+            statusEl.textContent = `[${i+1}/${total}] ${store.name}`;
+            
+            try {
+                // Attempt to fetch Google Maps search
+                const controller = new AbortController();
+                const timeout = setTimeout(() => controller.abort(), 3000);
+                
+                await fetch(`https://www.google.co.jp/maps/search/${query}`, {
+                    signal: controller.signal
+                }).catch(() => {});
+                
+                clearTimeout(timeout);
+                
+                // Use existing coordinates as fallback for now
+                results.push({
+                    id: store.id,
+                    name: store.name,
+                    neighborhood: store.neighborhood,
+                    category: store.category,
+                    latitude: store.latitude,
+                    longitude: store.longitude,
+                    location_source: 'neighborhood_centroid'
+                });
+                fallbackCount++;
+                
+            } catch (e) {
+                results.push({
+                    ...store,
+                    location_source: 'error_fallback'
+                });
+                fallbackCount++;
+            }
+            
+            // Update progress
+            const pct = ((i + 1) / total * 100).toFixed(1);
+            progressEl.textContent = `Progress: ${i+1}/${total} (${pct}%) - Success: ${successCount}, Fallback: ${fallbackCount}`;
+            
+            // Save progress every BATCH_SIZE stores
+            if ((i + 1) % BATCH_SIZE === 0 || i === total - 1) {
+                const progressData = {
+                    stores: results,
+                    categories: data.categories,
+                    neighborhoods: data.neighborhoods,
+                    progress: `${i+1}/${total}`,
+                    success: successCount,
+                    fallback: fallbackCount
+                };
+                localStorage.setItem('geocoding_results', JSON.stringify(progressData));
+                log(`Progress saved: ${i+1}/${total}`, 'success');
+            }
+            
+            // Rate limiting
+            await new Promise(r => setTimeout(r, 500));
+        }
+        
+        statusEl.textContent = `✅ Complete! Success: ${successCount}, Fallback: ${fallbackCount}`;
+        log(`Geocoding complete! Results saved to localStorage.`);
+        
+    } catch (e) {
+        statusEl.textContent = `❌ Error: ${e.message}`;
+        log(`Error: ${e.message}`, 'fail');
+    }
+}
+
+start();
+</script>
+</body>
+</html>

@@ -1,0 +1,6100 @@
+{
+  "stores": [
+    {
+      "id": "store_0001",
+      "name": "オーケーひばりが丘店",
+      "neighborhood": "谷戸町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7447103,
+      "longitude": 139.5427101,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0002",
+      "name": "ChanQ Coffee",
+      "neighborhood": "谷戸町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.746058,
+      "longitude": 139.542855,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0003",
+      "name": "Ｂｏｕｌａｎｇｅｒｉｅ５２５",
+      "neighborhood": "谷戸町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7455299,
+      "longitude": 139.5429258,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0004",
+      "name": "ル マグノリア",
+      "neighborhood": "谷戸町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7454218,
+      "longitude": 139.5431661,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0005",
+      "name": "Maison Jouer",
+      "neighborhood": "谷戸町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7500741,
+      "longitude": 139.5436138,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0006",
+      "name": "マツモトキヨシ 新ひばりが丘店",
+      "neighborhood": "谷戸町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7441968,
+      "longitude": 139.5416793,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0007",
+      "name": "ウェルパークフレスポひばりが丘店",
+      "neighborhood": "谷戸町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7447103,
+      "longitude": 139.5427101,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0008",
+      "name": "スギ薬局ひばりが丘店",
+      "neighborhood": "谷戸町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7386926,
+      "longitude": 139.5429363,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0009",
+      "name": "誠文堂",
+      "neighborhood": "谷戸町",
+      "category": "書籍・事務用品",
+      "latitude": 35.7476385,
+      "longitude": 139.5429756,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0010",
+      "name": "ひばりが丘スポーツ",
+      "neighborhood": "谷戸町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7461357,
+      "longitude": 139.5430874,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0011",
+      "name": "オテロ",
+      "neighborhood": "谷戸町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7499088,
+      "longitude": 139.5437685,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0012",
+      "name": "窓庭工房",
+      "neighborhood": "谷戸町",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7436336,
+      "longitude": 139.5435898,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0013",
+      "name": "オリタサイクル",
+      "neighborhood": "谷戸町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7457269,
+      "longitude": 139.542948,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0014",
+      "name": "セオサイクル ひばりヶ丘店",
+      "neighborhood": "谷戸町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.744014,
+      "longitude": 139.543238,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0015",
+      "name": "うなぎ さ和野",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7391162,
+      "longitude": 139.5436219,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0016",
+      "name": "上海料理 寒舎",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7490958,
+      "longitude": 139.5431554,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0017",
+      "name": "21 Brew Cave",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7442135,
+      "longitude": 139.543222,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0018",
+      "name": "campカフェ",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7431822,
+      "longitude": 139.5372408,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0019",
+      "name": "日本料理 えいたろう",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7490608,
+      "longitude": 139.5430031,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0020",
+      "name": "レストランココット",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7501245,
+      "longitude": 139.5439702,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0021",
+      "name": "ポポラマーマひばりヶ丘店",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7501743,
+      "longitude": 139.5440037,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0022",
+      "name": "大阪王将フレスポひばりが丘店",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7447103,
+      "longitude": 139.5427101,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0023",
+      "name": "菜々坊",
+      "neighborhood": "谷戸町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7475489,
+      "longitude": 139.5429739,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0024",
+      "name": "あかねや",
+      "neighborhood": "谷戸町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7457904,
+      "longitude": 139.5429338,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0025",
+      "name": "居酒屋美味しんぼ",
+      "neighborhood": "谷戸町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7489526,
+      "longitude": 139.5434386,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0026",
+      "name": "アカヌケ舎クリーニング",
+      "neighborhood": "谷戸町",
+      "category": "クリーニング",
+      "latitude": 35.7462919,
+      "longitude": 139.543043,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0027",
+      "name": "落合クリーニング",
+      "neighborhood": "谷戸町",
+      "category": "クリーニング",
+      "latitude": 35.7483769,
+      "longitude": 139.5426565,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0028",
+      "name": "ユニーク",
+      "neighborhood": "谷戸町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.748535,
+      "longitude": 139.5432508,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0029",
+      "name": "ビューティックトミ",
+      "neighborhood": "谷戸町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7500394,
+      "longitude": 139.543623,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0030",
+      "name": "Hair ＣＬＥＡ",
+      "neighborhood": "谷戸町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7461801,
+      "longitude": 139.543057,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0031",
+      "name": "歯科吉岡",
+      "neighborhood": "谷戸町",
+      "category": "健康・医療",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0032",
+      "name": "宏鳳堂",
+      "neighborhood": "谷戸町",
+      "category": "健康・医療",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0033",
+      "name": "友愛鍼灸接骨院",
+      "neighborhood": "谷戸町",
+      "category": "健康・医療",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0034",
+      "name": "ゆパウザひばり",
+      "neighborhood": "谷戸町",
+      "category": "健康・医療",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0035",
+      "name": "ひばりが丘にっこり鍼灸整骨院",
+      "neighborhood": "谷戸町",
+      "category": "健康・医療",
+      "latitude": 35.74955,
+      "longitude": 139.543403,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0036",
+      "name": "エネフィット清水商事",
+      "neighborhood": "谷戸町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0037",
+      "name": "キャットハンズジャパン",
+      "neighborhood": "谷戸町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0038",
+      "name": "ダイワンテレコム田無エリア店",
+      "neighborhood": "谷戸町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0039",
+      "name": "スマホ修理テック田無エリア店",
+      "neighborhood": "谷戸町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0040",
+      "name": "古畑装飾株式会社",
+      "neighborhood": "谷戸町",
+      "category": "その他 インテリア",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0041",
+      "name": "ASAひばりヶ丘",
+      "neighborhood": "谷戸町",
+      "category": "その他 新聞販売店",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0042",
+      "name": "ソーイング・スタジオ ひばりが丘店",
+      "neighborhood": "谷戸町",
+      "category": "その他 洋服の仕立て・直し・リメイク",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0043",
+      "name": "駄菓子屋 ＷＡＫＵＷＡＫＵ屋やといち",
+      "neighborhood": "谷戸町",
+      "category": "その他 駄菓子屋",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0044",
+      "name": "中野行政法務事務所",
+      "neighborhood": "谷戸町",
+      "category": "その他 行政書士事務所",
+      "latitude": 35.7482288,
+      "longitude": 139.5431003,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0045",
+      "name": "セブンイレブン田無谷戸店",
+      "neighborhood": "緑町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7354777,
+      "longitude": 139.5375062,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0046",
+      "name": "らくわん",
+      "neighborhood": "緑町",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7354777,
+      "longitude": 139.5375062,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0047",
+      "name": "田無はせがわ接骨院・鍼灸院",
+      "neighborhood": "緑町",
+      "category": "健康・医療",
+      "latitude": 35.7354777,
+      "longitude": 139.5375062,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0048",
+      "name": "L&W山城屋",
+      "neighborhood": "北原町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0049",
+      "name": "スギ薬局 西東京北原町店",
+      "neighborhood": "北原町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0050",
+      "name": "ティアラ",
+      "neighborhood": "北原町",
+      "category": "書籍・事務用品",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0051",
+      "name": "小田桐電気",
+      "neighborhood": "北原町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0052",
+      "name": "ＥＮＥＯＳ カートピア田無ＳＳ",
+      "neighborhood": "北原町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0053",
+      "name": "オートショップ多摩",
+      "neighborhood": "北原町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0054",
+      "name": "サンドイッチ＆コーヒー Carmel",
+      "neighborhood": "北原町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0055",
+      "name": "小林鍼灸院",
+      "neighborhood": "北原町",
+      "category": "健康・医療",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0056",
+      "name": "ぬくもりプラス田無",
+      "neighborhood": "北原町",
+      "category": "健康・医療",
+      "latitude": 35.7368902,
+      "longitude": 139.5446272,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0057",
+      "name": "ロピア 田無店",
+      "neighborhood": "西原町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7330827,
+      "longitude": 139.5378642,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0058",
+      "name": "コジマビックカメラコーナン田無店",
+      "neighborhood": "西原町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.735763,
+      "longitude": 139.5256761,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0059",
+      "name": "ピザ・カリフォルニア田無店",
+      "neighborhood": "西原町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7330827,
+      "longitude": 139.5378642,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0060",
+      "name": "アトリエ結",
+      "neighborhood": "西原町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7330827,
+      "longitude": 139.5378642,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0061",
+      "name": "ホームセンターコーナン西東京田無店",
+      "neighborhood": "西原町",
+      "category": "その他 ホームセンター",
+      "latitude": 35.735763,
+      "longitude": 139.5256761,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0062",
+      "name": "コーナンPRO西東京田無店",
+      "neighborhood": "西原町",
+      "category": "その他 ホームセンター",
+      "latitude": 35.735763,
+      "longitude": 139.5256761,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0063",
+      "name": "フルーツあきやま ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0064",
+      "name": "乃が美 田無アスタ販売店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0065",
+      "name": "コクミンドラッグ 田無店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0066",
+      "name": "マーブル アスタ店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0067",
+      "name": "チヨダ 田無アスタ店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.728329,
+      "longitude": 139.540347,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0068",
+      "name": "Ｌ 田無アスタ店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0069",
+      "name": "ママイクコ ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0070",
+      "name": "SM2 Keittio 田無アスタ店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0071",
+      "name": "CARNIVAL アスタ田無店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0072",
+      "name": "メガネの愛眼 アスタ田無駅前店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.728352,
+      "longitude": 139.540184,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0073",
+      "name": "カメラのキタムラ 西東京・田無アスタ店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0074",
+      "name": "ファーストキッチン ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0075",
+      "name": "LAPAX＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "その他 小売 バック",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0076",
+      "name": "ココカラファイン 田無アスタ店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "その他 ドラッグストア",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0077",
+      "name": "kichijoji KIKUYA ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "その他 化粧品、食器、キッチン雑貨",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0078",
+      "name": "ジュエリーツツミ 田無アスタ店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "その他 宝飾品",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0079",
+      "name": "薬局トモズ ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0080",
+      "name": "ハーモニカ ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0081",
+      "name": "LBC with Life ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0082",
+      "name": "ルミアン ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0083",
+      "name": "サン・フェルメール ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.728352,
+      "longitude": 139.540184,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0084",
+      "name": "illusie 300＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0085",
+      "name": "ノジマ 田無アスタ店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.728446,
+      "longitude": 139.540405,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0086",
+      "name": "カフェ桑苑 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0087",
+      "name": "FaSS田無アスタ店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7283095,
+      "longitude": 139.5405693,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0088",
+      "name": "ハロー！パソコン教室 田無アスタ校 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "その他 教育・学習支援業",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0089",
+      "name": "カラダファクトリー アスタ田無店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "その他 整体・リラクゼーション",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0090",
+      "name": "プチラグゼ 田無アスタ店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "その他 リラクゼーションサロン",
+      "latitude": 35.728217,
+      "longitude": 139.5401357,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0091",
+      "name": "アイシティ田無アスタ店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0092",
+      "name": "SUZUTAN＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0093",
+      "name": "光盛庵 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7282395,
+      "longitude": 139.5402486,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0094",
+      "name": "味噌屋蔵之介 田無ASTA店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7281351,
+      "longitude": 139.5403821,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0095",
+      "name": "おひつごはん四六時中 田無アスタ店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0096",
+      "name": "御膳茶屋 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0097",
+      "name": "和幸 田無店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0098",
+      "name": "ココス田無店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7285658,
+      "longitude": 139.5403877,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0099",
+      "name": "ナカムラ水産 田無店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0100",
+      "name": "手づくりハム工房 カッセル ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0101",
+      "name": "ザックザク肉の宝屋 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7280717,
+      "longitude": 139.5399549,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0102",
+      "name": "佐佐木商店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7281558,
+      "longitude": 139.5403261,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0103",
+      "name": "マルゴ青果 田無店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7286313,
+      "longitude": 139.5399536,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0104",
+      "name": "ニュー・クイック 田無アスタ店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7286641,
+      "longitude": 139.5403326,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0105",
+      "name": "フレッシュクローバー ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7286806,
+      "longitude": 139.5402526,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0106",
+      "name": "Jupiter 田無店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0107",
+      "name": "おかしのまちおか田無アスタ店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.728188,
+      "longitude": 139.540185,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0108",
+      "name": "山利屋 田無店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.728352,
+      "longitude": 139.540184,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0109",
+      "name": "武蔵野茶房 田無ASTA店 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7281808,
+      "longitude": 139.540251,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0110",
+      "name": "東京ひよ子 ＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.728352,
+      "longitude": 139.540184,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0111",
+      "name": "い志井菓子店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.728352,
+      "longitude": 139.540184,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0112",
+      "name": "横浜くりこ庵＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7283515,
+      "longitude": 139.5401838,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0113",
+      "name": "和幸田無売店＜田無アスタ専門店街＞",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0114",
+      "name": "セブンイレブン田無本町4丁目店",
+      "neighborhood": "田無町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7289464,
+      "longitude": 139.5386606,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0115",
+      "name": "Olympic田無店",
+      "neighborhood": "田無町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0116",
+      "name": "西友 LIVIN田無店",
+      "neighborhood": "田無町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0117",
+      "name": "セブンイレブン 田無駅北口店",
+      "neighborhood": "田無町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7276986,
+      "longitude": 139.5392974,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0118",
+      "name": "成城石井 エミオ田無店",
+      "neighborhood": "田無町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7275279,
+      "longitude": 139.5392264,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0119",
+      "name": "魚亀商店",
+      "neighborhood": "田無町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.729982,
+      "longitude": 139.53224,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0120",
+      "name": "細沼園",
+      "neighborhood": "田無町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.730093,
+      "longitude": 139.540264,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0121",
+      "name": "丸山酒店",
+      "neighborhood": "田無町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7297979,
+      "longitude": 139.5318482,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0122",
+      "name": "地方銘酒つるや",
+      "neighborhood": "田無町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7288028,
+      "longitude": 139.5427672,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0123",
+      "name": "蘭花車",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7284792,
+      "longitude": 139.5386701,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0124",
+      "name": "武蔵野菓子工房 田無本店",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0125",
+      "name": "銀座コージーコーナー LIVIN田無店",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7283095,
+      "longitude": 139.5405693,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0126",
+      "name": "ケーキファクトリースマイル",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7297329,
+      "longitude": 139.5356187,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0127",
+      "name": "溶岩窯のパン工房グラスハープ",
+      "neighborhood": "田無町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7302618,
+      "longitude": 139.5310355,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0128",
+      "name": "西東京グリーン薬局",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7294223,
+      "longitude": 139.5401376,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0129",
+      "name": "田無プラザ薬局",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7298409,
+      "longitude": 139.5382971,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0130",
+      "name": "薬局ホームケアファーマシー田無店",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7295239,
+      "longitude": 139.5393298,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0131",
+      "name": "田無本町調剤薬局",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7289331,
+      "longitude": 139.5387933,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0132",
+      "name": "いずみ化粧品＆エステ",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7283888,
+      "longitude": 139.5420109,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0133",
+      "name": "シナリーメリーズ",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7295491,
+      "longitude": 139.5352493,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0134",
+      "name": "調剤薬局 つむぐ 田無店",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7294049,
+      "longitude": 139.5396556,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0135",
+      "name": "ウエルシア田無駅前店",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7279477,
+      "longitude": 139.5393978,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0136",
+      "name": "アドコンタクト田無店",
+      "neighborhood": "田無町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7293732,
+      "longitude": 139.5397935,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0137",
+      "name": "リブロ田無店",
+      "neighborhood": "田無町",
+      "category": "書籍・事務用品",
+      "latitude": 35.728138,
+      "longitude": 139.5404966,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0138",
+      "name": "ふれんず 田無ファンシー館",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7285175,
+      "longitude": 139.5384481,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0139",
+      "name": "ふれんず田無本店",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7285175,
+      "longitude": 139.5384481,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0140",
+      "name": "シモーヌ田無店",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7283434,
+      "longitude": 139.5406161,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0141",
+      "name": "JiNew",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7279883,
+      "longitude": 139.5343051,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0142",
+      "name": "ブティック パメラ",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7299782,
+      "longitude": 139.5397179,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0143",
+      "name": "アヴェニュー田無店",
+      "neighborhood": "田無町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7280734,
+      "longitude": 139.540487,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0144",
+      "name": "メガネのアド田無店",
+      "neighborhood": "田無町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7293732,
+      "longitude": 139.5397935,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0145",
+      "name": "中央フラワー田無北口店",
+      "neighborhood": "田無町",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.727909,
+      "longitude": 139.5393511,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0146",
+      "name": "マスダサイクル",
+      "neighborhood": "田無町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7291367,
+      "longitude": 139.5421704,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0147",
+      "name": "鶏・豚七輪焼 けむりや",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7284792,
+      "longitude": 139.5385062,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0148",
+      "name": "墨花居田無店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7292493,
+      "longitude": 139.5393497,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0149",
+      "name": "武蔵野食堂 田無店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7280931,
+      "longitude": 139.5387528,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0150",
+      "name": "武蔵野茶房田無本店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0151",
+      "name": "ビストロ ガメイ",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7285886,
+      "longitude": 139.5348011,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0152",
+      "name": "レストランけんぞう",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.729799,
+      "longitude": 139.534883,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0153",
+      "name": "あみやき亭 田無店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7321849,
+      "longitude": 139.5364419,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0154",
+      "name": "モスバーガー田無店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7291576,
+      "longitude": 139.541192,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0155",
+      "name": "竹屋 田無店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7283017,
+      "longitude": 139.538411,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0156",
+      "name": "coiki",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7304777,
+      "longitude": 139.5415679,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0157",
+      "name": "インド料理 スワガット",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286999,
+      "longitude": 139.5386943,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0158",
+      "name": "仲よし",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7294223,
+      "longitude": 139.5400688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0159",
+      "name": "食樂 成屋",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7293873,
+      "longitude": 139.5351393,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0160",
+      "name": "なっちゃんち",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7289898,
+      "longitude": 139.5440299,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0161",
+      "name": "grazioso",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7288828,
+      "longitude": 139.5395657,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0162",
+      "name": "和幸エミオ田無駅売店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0163",
+      "name": "中国料理 仲達",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7283769,
+      "longitude": 139.5470358,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0164",
+      "name": "カレーとデミ カサネヤ",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.729177,
+      "longitude": 139.5399915,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0165",
+      "name": "炭火焼 七輪",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.728476,
+      "longitude": 139.534315,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0166",
+      "name": "砂場",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0167",
+      "name": "CIPOLLA",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7300332,
+      "longitude": 139.5399155,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0168",
+      "name": "ステーキハウス TEXAS 田無店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7315291,
+      "longitude": 139.5405702,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0169",
+      "name": "ムサシノコーヒー",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0170",
+      "name": "和牛焼肉幸",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7292236,
+      "longitude": 139.5414744,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0171",
+      "name": "麵屋ジャイアン田無本店",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.72887,
+      "longitude": 139.5408483,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0172",
+      "name": "欧風居酒屋 HANAGURUMA",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7294737,
+      "longitude": 139.5417947,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0173",
+      "name": "田無なおきち",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0174",
+      "name": "ドロップキック",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.729519,
+      "longitude": 139.5415846,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0175",
+      "name": "valeo",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7286502,
+      "longitude": 139.5429165,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0176",
+      "name": "風薫る神社なおきち",
+      "neighborhood": "田無町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7296963,
+      "longitude": 139.5438431,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0177",
+      "name": "居酒屋珍山海",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7296708,
+      "longitude": 139.5416136,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0178",
+      "name": "INOUE salon",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7287982,
+      "longitude": 139.5414362,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0179",
+      "name": "野菜deバル トーキョーダモンデ",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7286255,
+      "longitude": 139.5414895,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0180",
+      "name": "串カツ田中 田無店",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7286756,
+      "longitude": 139.5387767,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0181",
+      "name": "酒処 熊猫食堂",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7286403,
+      "longitude": 139.53864,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0182",
+      "name": "創作料理居酒屋やんばる",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7304641,
+      "longitude": 139.5421952,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0183",
+      "name": "FOR BEAT",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7284116,
+      "longitude": 139.5384659,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0184",
+      "name": "居酒屋 領粋",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7287148,
+      "longitude": 139.5390278,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0185",
+      "name": "大衆酒場 三六",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.72887,
+      "longitude": 139.5408483,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0186",
+      "name": "ぐるぐる",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7293966,
+      "longitude": 139.5417076,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0187",
+      "name": "洋風居酒屋 茶茶",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7288539,
+      "longitude": 139.5395357,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0188",
+      "name": "やきとりだるまさん 田無北口店",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7293968,
+      "longitude": 139.5401369,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0189",
+      "name": "えびちゃんお好み焼き",
+      "neighborhood": "田無町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7293949,
+      "longitude": 139.5401403,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0190",
+      "name": "GOODないす末広屋",
+      "neighborhood": "田無町",
+      "category": "クリーニング",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0191",
+      "name": "BARBER HAGIWARA",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7281385,
+      "longitude": 139.5438064,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0192",
+      "name": "HairSalon IVORY",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7300043,
+      "longitude": 139.5353382,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0193",
+      "name": "カットサロン マツバケン",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.72906,
+      "longitude": 139.5425694,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0194",
+      "name": "セシールインターナショナル",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7286617,
+      "longitude": 139.5392335,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0195",
+      "name": "田無ケアスタジオ INOUE care",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7300637,
+      "longitude": 139.5420178,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0196",
+      "name": "Re:st",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7278455,
+      "longitude": 139.5388686,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0197",
+      "name": "INOUE PILATES 2号店",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7302187,
+      "longitude": 139.5374214,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0198",
+      "name": "Ailes",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7285184,
+      "longitude": 139.5385367,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0199",
+      "name": "HairONE.",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.73356,
+      "longitude": 139.5314545,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0200",
+      "name": "Ｏpio",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7290232,
+      "longitude": 139.5395331,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0201",
+      "name": "hair Harume",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.730706,
+      "longitude": 139.5391968,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0202",
+      "name": "美容室ヘアードール",
+      "neighborhood": "田無町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7296296,
+      "longitude": 139.5402164,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0203",
+      "name": "INOUE GYM",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0204",
+      "name": "和心接骨院",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.730918,
+      "longitude": 139.542464,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0205",
+      "name": "INOUE GYM 4号店",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0206",
+      "name": "佐々健康管理クリニック",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7281542,
+      "longitude": 139.5345228,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0207",
+      "name": "うちだ薬局 田無店",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7299055,
+      "longitude": 139.5356671,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0208",
+      "name": "だいすけこどもクリニック",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7298753,
+      "longitude": 139.5356696,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0209",
+      "name": "健康整体院（太極中国気功整体）",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.728454,
+      "longitude": 139.5414413,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0210",
+      "name": "田無39マッサージ",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7316069,
+      "longitude": 139.5412382,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0211",
+      "name": "補聴器専門店 きりん堂",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.728893,
+      "longitude": 139.535143,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0212",
+      "name": "がく鍼灸治療院",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7284826,
+      "longitude": 139.5343093,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0213",
+      "name": "まちのリハビリ屋さん リハビリ整体院",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.727807,
+      "longitude": 139.5423794,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0214",
+      "name": "関根スポーツマッサージ治療院",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7300318,
+      "longitude": 139.5398942,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0215",
+      "name": "しまジム-筋トレパーソナル&整体-",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7292692,
+      "longitude": 139.535378,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0216",
+      "name": "均整ルームなゆた",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7285983,
+      "longitude": 139.5428767,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0217",
+      "name": "ここま田無",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7298498,
+      "longitude": 139.5419961,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0218",
+      "name": "田無北口鍼灸院",
+      "neighborhood": "田無町",
+      "category": "健康・医療",
+      "latitude": 35.7291133,
+      "longitude": 139.5411859,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0219",
+      "name": "有限会社清水正二商店",
+      "neighborhood": "田無町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.730246,
+      "longitude": 139.542447,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0220",
+      "name": "メガネの貴晴堂",
+      "neighborhood": "田無町",
+      "category": "その他 貴金属、補聴器",
+      "latitude": 35.7285167,
+      "longitude": 139.5413581,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0221",
+      "name": "有限会社緑葬儀社",
+      "neighborhood": "田無町",
+      "category": "その他 葬祭業・お線香お数珠販売",
+      "latitude": 35.7303138,
+      "longitude": 139.5384647,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0222",
+      "name": "エムシープリントショップ",
+      "neighborhood": "田無町",
+      "category": "その他 印刷物の製作・販売",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0223",
+      "name": "かさや商店",
+      "neighborhood": "田無町",
+      "category": "その他 家庭金物・荒物・雑貨",
+      "latitude": 35.7289554,
+      "longitude": 139.5421152,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0224",
+      "name": "行政書士 西東京事務所",
+      "neighborhood": "田無町",
+      "category": "その他 終活支援（遺言・相続）、創業支援（法人設立・融資申請）等",
+      "latitude": 35.7302177,
+      "longitude": 139.5463628,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0225",
+      "name": "西東京パソコンレスキュー",
+      "neighborhood": "田無町",
+      "category": "その他 パソコン修理・販売",
+      "latitude": 35.7280257,
+      "longitude": 139.5446923,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0226",
+      "name": "ITninoSchool",
+      "neighborhood": "田無町",
+      "category": "その他 パソコン・スマホ・プログラミング教室",
+      "latitude": 35.7292789,
+      "longitude": 139.536926,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0227",
+      "name": "タイ古式＆ボディケア Laxsa（ラクサ）",
+      "neighborhood": "田無町",
+      "category": "その他 リラクゼーション業",
+      "latitude": 35.7280964,
+      "longitude": 139.5387592,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0228",
+      "name": "MeTIME",
+      "neighborhood": "田無町",
+      "category": "その他 産前産後助産師相談/女性対象リラクゼーションサロン",
+      "latitude": 35.7289129,
+      "longitude": 139.541956,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0229",
+      "name": "ホリスタジオ",
+      "neighborhood": "田無町",
+      "category": "その他 写真業",
+      "latitude": 35.7296903,
+      "longitude": 139.5405089,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0230",
+      "name": "カインズ リヴィン田無店",
+      "neighborhood": "田無町",
+      "category": "その他 ホームセンター",
+      "latitude": 35.7281747,
+      "longitude": 139.5403688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0231",
+      "name": "田無パーソナルジム コアライン",
+      "neighborhood": "田無町",
+      "category": "その他 パーソナルジム",
+      "latitude": 35.7286659,
+      "longitude": 139.5394156,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0232",
+      "name": "博文堂書店田無店",
+      "neighborhood": "田無町",
+      "category": "その他 書店 （文房具の取り扱いはありません）",
+      "latitude": 35.7286634,
+      "longitude": 139.5394232,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0233",
+      "name": "まちテナ西東京",
+      "neighborhood": "田無町",
+      "category": "その他 アンテナショップ",
+      "latitude": 35.7275097,
+      "longitude": 139.539366,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0234",
+      "name": "有限会社あっとほーむ",
+      "neighborhood": "田無町",
+      "category": "その他 介護用品",
+      "latitude": 35.729315,
+      "longitude": 139.538259,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0235",
+      "name": "セブンイレブン西東京南町一丁目店",
+      "neighborhood": "南町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7270311,
+      "longitude": 139.5491351,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0236",
+      "name": "おべんとう道",
+      "neighborhood": "南町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7260882,
+      "longitude": 139.5371502,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0237",
+      "name": "田無漁港直売所",
+      "neighborhood": "南町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7273035,
+      "longitude": 139.5411448,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0238",
+      "name": "玉川屋ワイン",
+      "neighborhood": "南町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.727118,
+      "longitude": 139.5408338,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0239",
+      "name": "南町調剤薬局",
+      "neighborhood": "南町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.72638,
+      "longitude": 139.541392,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0240",
+      "name": "薬局キッズファーマシー",
+      "neighborhood": "南町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7234012,
+      "longitude": 139.5383279,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0241",
+      "name": "ウエルシア田無駅南口店",
+      "neighborhood": "南町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7264791,
+      "longitude": 139.5393376,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0242",
+      "name": "olive green",
+      "neighborhood": "南町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7262105,
+      "longitude": 139.537337,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0243",
+      "name": "金子生花店",
+      "neighborhood": "南町",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.724877,
+      "longitude": 139.538837,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0244",
+      "name": "dogsalonRunRun",
+      "neighborhood": "南町",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7274162,
+      "longitude": 139.5416014,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0245",
+      "name": "（有）栗本商店",
+      "neighborhood": "南町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7274531,
+      "longitude": 139.5485068,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0246",
+      "name": "サンサイクル",
+      "neighborhood": "南町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7266036,
+      "longitude": 139.5398258,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0247",
+      "name": "にくきゅうカフェ",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.722291,
+      "longitude": 139.528478,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0248",
+      "name": "旬の和と酒 suiren",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.727474,
+      "longitude": 139.5418851,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0249",
+      "name": "割烹よしむら",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7261392,
+      "longitude": 139.5372448,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0250",
+      "name": "油そば 5坪",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7261387,
+      "longitude": 139.5372673,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0251",
+      "name": "いこい 西東京市田無庁舎内食堂",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7258984,
+      "longitude": 139.5381918,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0252",
+      "name": "北京飯店",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7264871,
+      "longitude": 139.5386235,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0253",
+      "name": "ロバ ブリトー",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7261937,
+      "longitude": 139.5373272,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0254",
+      "name": "ANNE’S GARDEN",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.727118,
+      "longitude": 139.5408338,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0255",
+      "name": "すし処玉八",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7273238,
+      "longitude": 139.5412515,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0256",
+      "name": "カレーハウスCoCo壱番屋田無駅南口店",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7268799,
+      "longitude": 139.539655,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0257",
+      "name": "TheO.H Cafe",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7276463,
+      "longitude": 139.5482607,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0258",
+      "name": "食助",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.727008,
+      "longitude": 139.54072,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0259",
+      "name": "Bistro Chadama",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.726934,
+      "longitude": 139.5407133,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0260",
+      "name": "Comodo Coffee Roasters",
+      "neighborhood": "南町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7274739,
+      "longitude": 139.5417584,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0261",
+      "name": "ダイニング酒場 寅さん",
+      "neighborhood": "南町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7269667,
+      "longitude": 139.539913,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0262",
+      "name": "もつ焼 一",
+      "neighborhood": "南町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7269637,
+      "longitude": 139.5399466,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0263",
+      "name": "もつ焼き あぶさん",
+      "neighborhood": "南町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.727624,
+      "longitude": 139.543503,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0264",
+      "name": "コの字酒場コイキ",
+      "neighborhood": "南町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.727034,
+      "longitude": 139.5406886,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0265",
+      "name": "Bar Tea's Place",
+      "neighborhood": "南町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.727034,
+      "longitude": 139.5406886,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0266",
+      "name": "かぶら屋 田無店",
+      "neighborhood": "南町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7264626,
+      "longitude": 139.5392817,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0267",
+      "name": "Hair 8",
+      "neighborhood": "南町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7239336,
+      "longitude": 139.5370306,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0268",
+      "name": "ピリリコ",
+      "neighborhood": "南町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.727118,
+      "longitude": 139.5408338,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0269",
+      "name": "INOUE PILATES 1号店",
+      "neighborhood": "南町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.727118,
+      "longitude": 139.5408338,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0270",
+      "name": "facialsalon my repos",
+      "neighborhood": "南町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7262105,
+      "longitude": 139.5373369,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0271",
+      "name": "Room hair",
+      "neighborhood": "南町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7265417,
+      "longitude": 139.5395151,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0272",
+      "name": "ビューティーサロンドア",
+      "neighborhood": "南町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.727008,
+      "longitude": 139.54072,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0273",
+      "name": "ヘアーサロン アルタ",
+      "neighborhood": "南町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.727399,
+      "longitude": 139.541628,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0274",
+      "name": "たかはし鍼灸院・整骨院〜Repos〜",
+      "neighborhood": "南町",
+      "category": "健康・医療",
+      "latitude": 35.7252195,
+      "longitude": 139.5360958,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0275",
+      "name": "休息ラボ",
+      "neighborhood": "南町",
+      "category": "健康・医療",
+      "latitude": 35.725839,
+      "longitude": 139.5388388,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0276",
+      "name": "INOUE GYM 2号店",
+      "neighborhood": "南町",
+      "category": "健康・医療",
+      "latitude": 35.7249787,
+      "longitude": 139.5417021,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0277",
+      "name": "犬浦畳店",
+      "neighborhood": "南町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7263997,
+      "longitude": 139.5377724,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0278",
+      "name": "ASA 田無南部",
+      "neighborhood": "南町",
+      "category": "その他 新聞販売店",
+      "latitude": 35.7238161,
+      "longitude": 139.5420903,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0279",
+      "name": "楽学舎ロボットプログラミング教室 田無教室",
+      "neighborhood": "南町",
+      "category": "その他 教育",
+      "latitude": 35.727118,
+      "longitude": 139.5408338,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0280",
+      "name": "サクラ薬局",
+      "neighborhood": "南町",
+      "category": "その他 漢方相談(保険調剤不可)",
+      "latitude": 35.726588,
+      "longitude": 139.538142,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0281",
+      "name": "サミットストア 向台町店",
+      "neighborhood": "向台町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.718244,
+      "longitude": 139.534971,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0282",
+      "name": "サンドラッグ 西東京向台町店",
+      "neighborhood": "向台町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7180967,
+      "longitude": 139.543715,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0283",
+      "name": "コジマ×ビックカメラ西東京店",
+      "neighborhood": "向台町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7182713,
+      "longitude": 139.5350076,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0284",
+      "name": "ＥＮＥＯＳ カートピア向台ＳＳ",
+      "neighborhood": "向台町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7197152,
+      "longitude": 139.5432457,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0285",
+      "name": "エルミタージュ",
+      "neighborhood": "向台町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7221064,
+      "longitude": 139.5239982,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0286",
+      "name": "はり・温灸 ゆくり堂",
+      "neighborhood": "向台町",
+      "category": "健康・医療",
+      "latitude": 35.7176304,
+      "longitude": 139.5412643,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0287",
+      "name": "向台整骨院",
+      "neighborhood": "向台町",
+      "category": "健康・医療",
+      "latitude": 35.719424,
+      "longitude": 139.5310745,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0288",
+      "name": "A＆A西東京スポーツセンター",
+      "neighborhood": "向台町",
+      "category": "その他 総合スポーツ施設",
+      "latitude": 35.7197513,
+      "longitude": 139.5397453,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0289",
+      "name": "セブンイレブン 西東京芝久保5丁目店",
+      "neighborhood": "芝久保町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7316181,
+      "longitude": 139.5265319,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0290",
+      "name": "オーケー田無芝久保店",
+      "neighborhood": "芝久保町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7283533,
+      "longitude": 139.5292549,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0291",
+      "name": "米山酒店",
+      "neighborhood": "芝久保町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.730462,
+      "longitude": 139.519377,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0292",
+      "name": "ふじや酒店",
+      "neighborhood": "芝久保町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.722318,
+      "longitude": 139.528244,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0293",
+      "name": "サンドラッグ 西東京芝久保店",
+      "neighborhood": "芝久保町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7253341,
+      "longitude": 139.5303298,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0294",
+      "name": "ドラッグストアコスモス芝久保店",
+      "neighborhood": "芝久保町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.728308,
+      "longitude": 139.528088,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0295",
+      "name": "パナピットいいだ",
+      "neighborhood": "芝久保町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7329615,
+      "longitude": 139.5203368,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0296",
+      "name": "橘鮨",
+      "neighborhood": "芝久保町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7272582,
+      "longitude": 139.5241021,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0297",
+      "name": "谿明飯店",
+      "neighborhood": "芝久保町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7277597,
+      "longitude": 139.5303358,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0298",
+      "name": "中国料理 山城",
+      "neighborhood": "芝久保町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7337801,
+      "longitude": 139.5301641,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0299",
+      "name": "スナック藍",
+      "neighborhood": "芝久保町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7325172,
+      "longitude": 139.5254377,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0300",
+      "name": "ロクトショクドウ",
+      "neighborhood": "芝久保町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7344173,
+      "longitude": 139.5232775,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0301",
+      "name": "ヘアーサロン アベ",
+      "neighborhood": "芝久保町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7244519,
+      "longitude": 139.5239654,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0302",
+      "name": "理容ヨシノ",
+      "neighborhood": "芝久保町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7225749,
+      "longitude": 139.5284155,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0303",
+      "name": "カット&パーマ トパーズ",
+      "neighborhood": "芝久保町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7325172,
+      "longitude": 139.5254377,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0304",
+      "name": "ネイルアミ",
+      "neighborhood": "芝久保町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7332554,
+      "longitude": 139.5277444,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0305",
+      "name": "美容室理容室 シエル イオンタウン田無店",
+      "neighborhood": "芝久保町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7241232,
+      "longitude": 139.5289616,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0306",
+      "name": "つむぎ薬局",
+      "neighborhood": "芝久保町",
+      "category": "健康・医療",
+      "latitude": 35.726695,
+      "longitude": 139.5212995,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0307",
+      "name": "ひがきデンタルクリニック",
+      "neighborhood": "芝久保町",
+      "category": "健康・医療",
+      "latitude": 35.7241965,
+      "longitude": 139.5286025,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0308",
+      "name": "サンコー電器",
+      "neighborhood": "芝久保町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7325172,
+      "longitude": 139.5254377,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0309",
+      "name": "庚申湯",
+      "neighborhood": "芝久保町",
+      "category": "その他 公衆浴場",
+      "latitude": 35.7227422,
+      "longitude": 139.528432,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0310",
+      "name": "タイムジップス24",
+      "neighborhood": "芝久保町",
+      "category": "その他 ゴルフ練習場",
+      "latitude": 35.7343234,
+      "longitude": 139.5250779,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0311",
+      "name": "日本橋屋長兵衛 ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7515884,
+      "longitude": 139.5441584,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0312",
+      "name": "サーティーワンアイスクリーム ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7515775,
+      "longitude": 139.5441498,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0313",
+      "name": "吉祥寺 多奈加亭 ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7516278,
+      "longitude": 139.544343,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0314",
+      "name": "contorno ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7516055,
+      "longitude": 139.5441651,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0315",
+      "name": "リュテス ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515299,
+      "longitude": 139.5441287,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0316",
+      "name": "サマンサモスモス ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515314,
+      "longitude": 139.5442791,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0317",
+      "name": "フィルデフェール ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7441717,
+      "longitude": 139.536273,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0318",
+      "name": "DoCLASSE ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7514781,
+      "longitude": 139.5440369,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0319",
+      "name": "パーフェクトスーツファクトリー ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7518303,
+      "longitude": 139.5441667,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0320",
+      "name": "ブルーブルーエゼネラルストア ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7514462,
+      "longitude": 139.5442318,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0321",
+      "name": "テチチ テラス＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515299,
+      "longitude": 139.5441287,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0322",
+      "name": "オペーク ドット クリップ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7441717,
+      "longitude": 139.536273,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0323",
+      "name": "ZOFF ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7518403,
+      "longitude": 139.5444342,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0324",
+      "name": "お直しコンシェルジュ ビック・ママ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "その他 お直し",
+      "latitude": 35.7513576,
+      "longitude": 139.5441587,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0325",
+      "name": "ハウスオブローゼ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7515368,
+      "longitude": 139.5442259,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0326",
+      "name": "アイシティ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7515977,
+      "longitude": 139.5441869,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0327",
+      "name": "ビースリー ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7513947,
+      "longitude": 139.5442362,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0328",
+      "name": "無印良品 ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515775,
+      "longitude": 139.5441498,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0329",
+      "name": "ふりそでMODEウェディングボックス ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515775,
+      "longitude": 139.5441498,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0330",
+      "name": "アヴェニュー ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7516055,
+      "longitude": 139.5441651,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0331",
+      "name": "ELLIFE ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7516055,
+      "longitude": 139.5441651,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0332",
+      "name": "エムセンス ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7516055,
+      "longitude": 139.5441651,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0333",
+      "name": "BANKAN ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515852,
+      "longitude": 139.5441706,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0334",
+      "name": "GINZA MAGGY ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7517599,
+      "longitude": 139.5440702,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0335",
+      "name": "ナナズグリーンティー ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7517677,
+      "longitude": 139.5444875,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0336",
+      "name": "Ｌａ ＹＡＭＡＮＯ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7512961,
+      "longitude": 139.5441585,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0337",
+      "name": "カラダファクトリー ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "健康・医療",
+      "latitude": 35.7515775,
+      "longitude": 139.5441498,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0338",
+      "name": "ミルフローラ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "その他 宝飾",
+      "latitude": 35.7515775,
+      "longitude": 139.5441498,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0339",
+      "name": "ローズマリー ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7516642,
+      "longitude": 139.5444084,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0340",
+      "name": "キャン・ドゥ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7518787,
+      "longitude": 139.5442359,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0341",
+      "name": "エスキス ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515436,
+      "longitude": 139.5442312,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0342",
+      "name": "チュチュアンナ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7515989,
+      "longitude": 139.5440894,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0343",
+      "name": "ABC-MART ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7514781,
+      "longitude": 139.5440369,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0344",
+      "name": "ラックラック＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.75161,
+      "longitude": 139.5442,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0345",
+      "name": "吉祥寺 菊屋 ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7515703,
+      "longitude": 139.5441768,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0346",
+      "name": "ユザワヤ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.751563,
+      "longitude": 139.543925,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0347",
+      "name": "エステサロンさくら ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7441717,
+      "longitude": 139.536273,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0348",
+      "name": "リブロ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "書籍・事務用品",
+      "latitude": 35.7517223,
+      "longitude": 139.544438,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0349",
+      "name": "ノジマ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7515518,
+      "longitude": 139.5441882,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0350",
+      "name": "コイデカメラ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7515993,
+      "longitude": 139.5441713,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0351",
+      "name": "ペットフォレスト ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7513189,
+      "longitude": 139.5442037,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0352",
+      "name": "ラフィネ ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "健康・医療",
+      "latitude": 35.7515993,
+      "longitude": 139.5441713,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0353",
+      "name": "ローカルインディア ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7516658,
+      "longitude": 139.5441416,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0354",
+      "name": "そば酒房 凜や ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7516439,
+      "longitude": 139.5440095,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0355",
+      "name": "食堂いつもの。 ＜ひばりが丘パルコ店＞",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7515918,
+      "longitude": 139.5441722,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0356",
+      "name": "ブルーミングブルーミーひばりヶ丘パルコ店",
+      "neighborhood": "ひばりが丘",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7515884,
+      "longitude": 139.5441584,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0357",
+      "name": "ココカラファイン ひばりが丘パルコ店",
+      "neighborhood": "ひばりが丘",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7513754,
+      "longitude": 139.5442691,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0358",
+      "name": "西友 ひばりが丘団地店",
+      "neighborhood": "ひばりが丘",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7474864,
+      "longitude": 139.5360656,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0359",
+      "name": "野菜ソムリエ中華 月曜弁当",
+      "neighborhood": "ひばりが丘",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.747558,
+      "longitude": 139.5368686,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0360",
+      "name": "エスポアはせがわ",
+      "neighborhood": "ひばりが丘",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7504036,
+      "longitude": 139.5434138,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0361",
+      "name": "長谷川米穀店",
+      "neighborhood": "ひばりが丘",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7503942,
+      "longitude": 139.5436296,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0362",
+      "name": "ベーカリー＆カフェ ベーカリーピヨピヨ",
+      "neighborhood": "ひばりが丘",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7488814,
+      "longitude": 139.5388078,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0363",
+      "name": "mao-chai.cafe",
+      "neighborhood": "ひばりが丘",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7479482,
+      "longitude": 139.5379556,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0364",
+      "name": "和菓子こしの",
+      "neighborhood": "ひばりが丘",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.747433,
+      "longitude": 139.537685,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0365",
+      "name": "春花秋月HARUから",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7441717,
+      "longitude": 139.536273,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0366",
+      "name": "シューズ ボンオギ",
+      "neighborhood": "ひばりが丘",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.74767,
+      "longitude": 139.5377078,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0367",
+      "name": "ombres douces",
+      "neighborhood": "ひばりが丘",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.747501,
+      "longitude": 139.5370984,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0368",
+      "name": "風葉花",
+      "neighborhood": "ひばりが丘",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7442688,
+      "longitude": 139.5332561,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0369",
+      "name": "竹むら",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7507329,
+      "longitude": 139.5427287,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0370",
+      "name": "soeur-cafe",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.74915,
+      "longitude": 139.541176,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0371",
+      "name": "ワイン酒場いちぞう",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7508784,
+      "longitude": 139.544144,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0372",
+      "name": "Cafe Restaurant LaVet",
+      "neighborhood": "ひばりが丘",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7492109,
+      "longitude": 139.5424987,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0373",
+      "name": "ばんべーる",
+      "neighborhood": "ひばりが丘",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7503629,
+      "longitude": 139.5433493,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0374",
+      "name": "居酒屋 呑処灯",
+      "neighborhood": "ひばりが丘",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7491321,
+      "longitude": 139.5411998,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0375",
+      "name": "居酒屋さくみ",
+      "neighborhood": "ひばりが丘",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7499346,
+      "longitude": 139.5432049,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0376",
+      "name": "琉球居酒屋 おきなわ屋 ひばりヶ丘店",
+      "neighborhood": "ひばりが丘",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7501969,
+      "longitude": 139.5435152,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0377",
+      "name": "呑み食い処 ええやん",
+      "neighborhood": "ひばりが丘",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7491877,
+      "longitude": 139.5426181,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0378",
+      "name": "ほろほろ居酒屋",
+      "neighborhood": "ひばりが丘",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7495683,
+      "longitude": 139.5418824,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0379",
+      "name": "酒場COGAO",
+      "neighborhood": "ひばりが丘",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7503278,
+      "longitude": 139.5435518,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0380",
+      "name": "イマイ理容室",
+      "neighborhood": "ひばりが丘",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7476277,
+      "longitude": 139.5374713,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0381",
+      "name": "米ぬか酵素風呂BRANSPA",
+      "neighborhood": "ひばりが丘",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7507106,
+      "longitude": 139.5438414,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0382",
+      "name": "Serendipity",
+      "neighborhood": "ひばりが丘",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7504949,
+      "longitude": 139.5433579,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0383",
+      "name": "西東京生協歯科",
+      "neighborhood": "ひばりが丘",
+      "category": "健康・医療",
+      "latitude": 35.7475742,
+      "longitude": 139.5379221,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0384",
+      "name": "『そらりす』体コンディショニング",
+      "neighborhood": "ひばりが丘",
+      "category": "健康・医療",
+      "latitude": 35.7509221,
+      "longitude": 139.5410276,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0385",
+      "name": "シブヤ整骨院",
+      "neighborhood": "ひばりが丘",
+      "category": "健康・医療",
+      "latitude": 35.7491123,
+      "longitude": 139.5410478,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0386",
+      "name": "Hagwaz",
+      "neighborhood": "ひばりが丘",
+      "category": "健康・医療",
+      "latitude": 35.7503822,
+      "longitude": 139.5436151,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0387",
+      "name": "漢元堂鍼灸院",
+      "neighborhood": "ひばりが丘",
+      "category": "健康・医療",
+      "latitude": 35.7507112,
+      "longitude": 139.5431447,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0388",
+      "name": "有限会社瀬川工業所",
+      "neighborhood": "ひばりが丘",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.750835,
+      "longitude": 139.542991,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0389",
+      "name": "長谷川金物店",
+      "neighborhood": "ひばりが丘",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7503157,
+      "longitude": 139.5435354,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0390",
+      "name": "サニーマートひばりが丘店",
+      "neighborhood": "ひばりが丘",
+      "category": "その他 自然食品、健康食品販売",
+      "latitude": 35.7475609,
+      "longitude": 139.5371581,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0391",
+      "name": "ミニばら盆栽学園",
+      "neighborhood": "ひばりが丘",
+      "category": "その他 カフェ及びミニばら盆栽の販売",
+      "latitude": 35.7507386,
+      "longitude": 139.542628,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0392",
+      "name": "楽学舎ロボットプログラミング教室 ひばりが丘教室",
+      "neighborhood": "ひばりが丘",
+      "category": "その他 教育",
+      "latitude": 35.7441717,
+      "longitude": 139.536273,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0393",
+      "name": "セブンイレブン西東京ひばりが丘北通り店",
+      "neighborhood": "ひばりが丘北",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7531433,
+      "longitude": 139.551271,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0394",
+      "name": "セブンイレブン保谷ひばりが丘駅北店",
+      "neighborhood": "ひばりが丘北",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7528419,
+      "longitude": 139.5447127,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0395",
+      "name": "Olympicひばりヶ丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7537607,
+      "longitude": 139.5445538,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0396",
+      "name": "セブンイレブンひばりが丘駅北口店",
+      "neighborhood": "ひばりが丘北",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7516787,
+      "longitude": 139.5458674,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0397",
+      "name": "アンドリーフひばりが丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7523473,
+      "longitude": 139.5443288,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0398",
+      "name": "焙煎工房 ブレッツァ珈琲",
+      "neighborhood": "ひばりが丘北",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7538154,
+      "longitude": 139.5511808,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0399",
+      "name": "パティスリージャルダンヴェール",
+      "neighborhood": "ひばりが丘北",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7529125,
+      "longitude": 139.5482477,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0400",
+      "name": "つばさ薬局",
+      "neighborhood": "ひばりが丘北",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7529656,
+      "longitude": 139.5444688,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0401",
+      "name": "漢方上田薬店",
+      "neighborhood": "ひばりが丘北",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7525695,
+      "longitude": 139.5445726,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0402",
+      "name": "田中薬局",
+      "neighborhood": "ひばりが丘北",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7537443,
+      "longitude": 139.5444173,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0403",
+      "name": "インテリアミナモトひばりヶ丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7531906,
+      "longitude": 139.545873,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0404",
+      "name": "YLひばりが丘工房",
+      "neighborhood": "ひばりが丘北",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7531138,
+      "longitude": 139.5439933,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0405",
+      "name": "TOHNO DANCE STUDIO",
+      "neighborhood": "ひばりが丘北",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.752346,
+      "longitude": 139.546322,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0406",
+      "name": "ちゃりんこ屋ちゅう",
+      "neighborhood": "ひばりが丘北",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7523434,
+      "longitude": 139.5462716,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0407",
+      "name": "牛屋",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7541642,
+      "longitude": 139.5444879,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0408",
+      "name": "YLひばりが丘キッチン",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7530542,
+      "longitude": 139.5501477,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0409",
+      "name": "江戸や鮨八",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7524033,
+      "longitude": 139.5445961,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0410",
+      "name": "サケトメシ 百春",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7532633,
+      "longitude": 139.5443989,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0411",
+      "name": "唐苑ひばりヶ丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7518689,
+      "longitude": 139.5460244,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0412",
+      "name": "一膳めしや 処屯",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7527284,
+      "longitude": 139.5465816,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0413",
+      "name": "味噌屋蔵之介ひばりヶ丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7524876,
+      "longitude": 139.5446096,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0414",
+      "name": "チャイナ倶楽部 旬",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7524079,
+      "longitude": 139.5453632,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0415",
+      "name": "カレーハウス CoCo壱番屋 西武ひばりが丘北口店",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.753927,
+      "longitude": 139.5464718,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0416",
+      "name": "松尾珈琲",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7520537,
+      "longitude": 139.5464532,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0417",
+      "name": "arômes",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7541553,
+      "longitude": 139.544289,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0418",
+      "name": "Ristorante Muuu",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7526593,
+      "longitude": 139.5445364,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0419",
+      "name": "キューズ",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7521885,
+      "longitude": 139.5449872,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0420",
+      "name": "STEAK MAN ひばりが丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7528054,
+      "longitude": 139.5458399,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0421",
+      "name": "浦野屋やきとんてるてるひばりヶ丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7532809,
+      "longitude": 139.5444617,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0422",
+      "name": "宝々",
+      "neighborhood": "ひばりが丘北",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7531138,
+      "longitude": 139.5439933,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0423",
+      "name": "居酒屋せん",
+      "neighborhood": "ひばりが丘北",
+      "category": "居酒屋・スナック",
+      "latitude": 35.752924,
+      "longitude": 139.546865,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0424",
+      "name": "お酒の美術館ひばりヶ丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7520206,
+      "longitude": 139.5450616,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0425",
+      "name": "かぶら屋 ひばりヶ丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7531138,
+      "longitude": 139.5439933,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0426",
+      "name": "九州酒場 縁 ～えにし～ ひばりヶ丘総本店",
+      "neighborhood": "ひばりが丘北",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7529097,
+      "longitude": 139.5460132,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0427",
+      "name": "スバルクリーニング ひばりが丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "クリーニング",
+      "latitude": 35.7529767,
+      "longitude": 139.5469248,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0428",
+      "name": "カーリッジ",
+      "neighborhood": "ひばりが丘北",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7542462,
+      "longitude": 139.5444337,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0429",
+      "name": "Private care salon Kaoru fleur",
+      "neighborhood": "ひばりが丘北",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7528558,
+      "longitude": 139.5471097,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0430",
+      "name": "ヘルシースリムウエダ",
+      "neighborhood": "ひばりが丘北",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7525908,
+      "longitude": 139.5445492,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0431",
+      "name": "hair freasy",
+      "neighborhood": "ひばりが丘北",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7540664,
+      "longitude": 139.5443559,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0432",
+      "name": "上田鍼灸整骨院",
+      "neighborhood": "ひばりが丘北",
+      "category": "健康・医療",
+      "latitude": 35.7525977,
+      "longitude": 139.5445622,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0433",
+      "name": "ゆうしん接骨院 ひばりヶ丘",
+      "neighborhood": "ひばりが丘北",
+      "category": "健康・医療",
+      "latitude": 35.7526374,
+      "longitude": 139.543387,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0434",
+      "name": "柔道整復院 judo-seifukuin",
+      "neighborhood": "ひばりが丘北",
+      "category": "健康・医療",
+      "latitude": 35.7535468,
+      "longitude": 139.5460204,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0435",
+      "name": "希起温もり鍼灸院",
+      "neighborhood": "ひばりが丘北",
+      "category": "健康・医療",
+      "latitude": 35.753511,
+      "longitude": 139.5466662,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0436",
+      "name": "鍼灸梅庵",
+      "neighborhood": "ひばりが丘北",
+      "category": "健康・医療",
+      "latitude": 35.755055,
+      "longitude": 139.546795,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0437",
+      "name": "ポーラ モルセラ ひばりヶ丘駅前店",
+      "neighborhood": "ひばりが丘北",
+      "category": "その他 エステ、化粧品販売",
+      "latitude": 35.7521191,
+      "longitude": 139.5451611,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0438",
+      "name": "ごるふの時間-ひばりが丘店",
+      "neighborhood": "ひばりが丘北",
+      "category": "その他 インドアゴルフスクール",
+      "latitude": 35.7530728,
+      "longitude": 139.5472729,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0439",
+      "name": "ジュール",
+      "neighborhood": "北町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.759665,
+      "longitude": 139.561534,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0440",
+      "name": "野中接骨院",
+      "neighborhood": "北町",
+      "category": "健康・医療",
+      "latitude": 35.7556947,
+      "longitude": 139.5537585,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0441",
+      "name": "フジタ電気",
+      "neighborhood": "北町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7530796,
+      "longitude": 139.5575984,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0442",
+      "name": "おそうじやさん西東京本店",
+      "neighborhood": "北町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7574935,
+      "longitude": 139.5567263,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0443",
+      "name": "いなげや保谷駅前店",
+      "neighborhood": "下保谷",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7488579,
+      "longitude": 139.5591902,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0444",
+      "name": "マツモトキヨシ 保谷北口駅前店",
+      "neighborhood": "下保谷",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7489611,
+      "longitude": 139.5672149,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0445",
+      "name": "サンドラッグ保谷北口駅前店",
+      "neighborhood": "下保谷",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.74943,
+      "longitude": 139.567866,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0446",
+      "name": "大東サイクル 北口店",
+      "neighborhood": "下保谷",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7510018,
+      "longitude": 139.5672871,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0447",
+      "name": "TRATTORIA E PIZZERIA L'INCANTO",
+      "neighborhood": "下保谷",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7507399,
+      "longitude": 139.5671886,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0448",
+      "name": "DecafCoffeeStand to Me.",
+      "neighborhood": "下保谷",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7510127,
+      "longitude": 139.5678451,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0449",
+      "name": "炭火焼鳥一五四",
+      "neighborhood": "下保谷",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7485565,
+      "longitude": 139.5654382,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0450",
+      "name": "TOHOクリーニング",
+      "neighborhood": "下保谷",
+      "category": "クリーニング",
+      "latitude": 35.7513172,
+      "longitude": 139.5597048,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0451",
+      "name": "スバルクリーニング 下保谷店",
+      "neighborhood": "下保谷",
+      "category": "クリーニング",
+      "latitude": 35.7508905,
+      "longitude": 139.5673034,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0452",
+      "name": "ERIN",
+      "neighborhood": "下保谷",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7509134,
+      "longitude": 139.5672125,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0453",
+      "name": "サロン・ド・オム",
+      "neighborhood": "下保谷",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7511378,
+      "longitude": 139.567889,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0454",
+      "name": "保谷駅前接骨院",
+      "neighborhood": "下保谷",
+      "category": "健康・医療",
+      "latitude": 35.7484038,
+      "longitude": 139.5669109,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0455",
+      "name": "整骨院あゆむ",
+      "neighborhood": "下保谷",
+      "category": "健康・医療",
+      "latitude": 35.7508458,
+      "longitude": 139.5677113,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0456",
+      "name": "田中畳店",
+      "neighborhood": "下保谷",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7504901,
+      "longitude": 139.5587313,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0457",
+      "name": "ドラッグセイムス 下保谷店",
+      "neighborhood": "下保谷",
+      "category": "その他 ドラッグストア",
+      "latitude": 35.7508161,
+      "longitude": 139.5601368,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0458",
+      "name": "LEVENDIS",
+      "neighborhood": "下保谷",
+      "category": "その他 サービス",
+      "latitude": 35.7485565,
+      "longitude": 139.5654382,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0459",
+      "name": "西友 ひばりヶ丘店",
+      "neighborhood": "住吉町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7507691,
+      "longitude": 139.5452102,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0460",
+      "name": "成城石井 エミオひばりが丘店",
+      "neighborhood": "住吉町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7516396,
+      "longitude": 139.5453879,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0461",
+      "name": "シュープラザひばりヶ丘西友店",
+      "neighborhood": "住吉町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7507858,
+      "longitude": 139.5453027,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0462",
+      "name": "コジマ×ビックカメラ西友ひばりヶ丘店",
+      "neighborhood": "住吉町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7507403,
+      "longitude": 139.5452637,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0463",
+      "name": "ChouChouNature",
+      "neighborhood": "住吉町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7398608,
+      "longitude": 139.5477421,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0464",
+      "name": "しもだ接骨院",
+      "neighborhood": "住吉町",
+      "category": "健康・医療",
+      "latitude": 35.7398155,
+      "longitude": 139.5480676,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0465",
+      "name": "お米のひらまつ",
+      "neighborhood": "栄町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7503244,
+      "longitude": 139.556987,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0466",
+      "name": "丸大",
+      "neighborhood": "泉町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7439628,
+      "longitude": 139.5536043,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0467",
+      "name": "小島屋豆腐店",
+      "neighborhood": "泉町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7387665,
+      "longitude": 139.5466032,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0468",
+      "name": "petit madoca 西東京泉町店",
+      "neighborhood": "泉町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.742867,
+      "longitude": 139.551715,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0469",
+      "name": "サンドラッグ 西東京泉町店",
+      "neighborhood": "泉町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7402827,
+      "longitude": 139.555925,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0470",
+      "name": "長岡屋",
+      "neighborhood": "泉町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7428758,
+      "longitude": 139.5587723,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0471",
+      "name": "グリ クラフトビールと多国籍料理",
+      "neighborhood": "泉町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7408761,
+      "longitude": 139.5521867,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0472",
+      "name": "スバルクリーニング 泉町店",
+      "neighborhood": "泉町",
+      "category": "クリーニング",
+      "latitude": 35.7437727,
+      "longitude": 139.5596883,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0473",
+      "name": "SunRoom",
+      "neighborhood": "泉町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7442428,
+      "longitude": 139.5576809,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0474",
+      "name": "パピヨン美容室",
+      "neighborhood": "泉町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7388372,
+      "longitude": 139.5470541,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0475",
+      "name": "jouir",
+      "neighborhood": "泉町",
+      "category": "健康・医療",
+      "latitude": 35.7453584,
+      "longitude": 139.5553971,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0476",
+      "name": "ストレッチとeスポーツ",
+      "neighborhood": "泉町",
+      "category": "健康・医療",
+      "latitude": 35.7424283,
+      "longitude": 139.5511951,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0477",
+      "name": "合同会社さわはた畳屋",
+      "neighborhood": "泉町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7417961,
+      "longitude": 139.5505275,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0478",
+      "name": "一般社団法人ぽろんのいえ",
+      "neighborhood": "泉町",
+      "category": "その他 児童福祉",
+      "latitude": 35.7429766,
+      "longitude": 139.5534163,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0479",
+      "name": "株式会社中村生花店",
+      "neighborhood": "泉町",
+      "category": "その他 生花店",
+      "latitude": 35.7386991,
+      "longitude": 139.5466463,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0480",
+      "name": "小須田商店（ごんべ屋）",
+      "neighborhood": "泉町",
+      "category": "その他 駄菓子屋",
+      "latitude": 35.7391921,
+      "longitude": 139.5493007,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0481",
+      "name": "リサイクルショップ セキホウ",
+      "neighborhood": "泉町",
+      "category": "その他 リサイクルショップ",
+      "latitude": 35.7408761,
+      "longitude": 139.5521867,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0482",
+      "name": "ヨークフーズ保谷店",
+      "neighborhood": "東町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.74308,
+      "longitude": 139.5649461,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0483",
+      "name": "ファミリーマート エミオ保谷店",
+      "neighborhood": "東町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7480068,
+      "longitude": 139.5666412,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0484",
+      "name": "西友 保谷店",
+      "neighborhood": "東町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7478847,
+      "longitude": 139.5675707,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0485",
+      "name": "風琳青果",
+      "neighborhood": "東町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.746039,
+      "longitude": 139.5626451,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0486",
+      "name": "フレッシュサクライ",
+      "neighborhood": "東町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.745928,
+      "longitude": 139.5659588,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0487",
+      "name": "お米ひろば野口屋",
+      "neighborhood": "東町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7473477,
+      "longitude": 139.5663666,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0488",
+      "name": "豊島屋",
+      "neighborhood": "東町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7474971,
+      "longitude": 139.5663801,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0489",
+      "name": "ジュール 駅前店",
+      "neighborhood": "東町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.746943,
+      "longitude": 139.5662771,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0490",
+      "name": "銀座コージーコーナー エミオ保谷店",
+      "neighborhood": "東町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7482117,
+      "longitude": 139.5673324,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0491",
+      "name": "菓子工房KIQCHI",
+      "neighborhood": "東町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7474772,
+      "longitude": 139.563506,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0492",
+      "name": "LOCO",
+      "neighborhood": "東町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7476755,
+      "longitude": 139.5664189,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0493",
+      "name": "ena pain えなぱん",
+      "neighborhood": "東町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7456783,
+      "longitude": 139.5619997,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0494",
+      "name": "くすりのダイイチ東町店",
+      "neighborhood": "東町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7446778,
+      "longitude": 139.5630106,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0495",
+      "name": "くすりのダイイチソレイユ保谷店",
+      "neighborhood": "東町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7478514,
+      "longitude": 139.5664833,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0496",
+      "name": "くすりのダイイチ東町郵便局前店",
+      "neighborhood": "東町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.745671,
+      "longitude": 139.5620156,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0497",
+      "name": "エニータイムオオゼキ",
+      "neighborhood": "東町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.745847,
+      "longitude": 139.566231,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0498",
+      "name": "フォトスタジオ ワタナベカラー",
+      "neighborhood": "東町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.747514,
+      "longitude": 139.564253,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0499",
+      "name": "大東サイクル",
+      "neighborhood": "東町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.7463001,
+      "longitude": 139.5659922,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0500",
+      "name": "DECO BOCO",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7475223,
+      "longitude": 139.5645242,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0501",
+      "name": "朝日屋そば店",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7458291,
+      "longitude": 139.5624546,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0502",
+      "name": "酔い処いけがや",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7470222,
+      "longitude": 139.5634782,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0503",
+      "name": "カフェとバー アヌビアス ナナ",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7478194,
+      "longitude": 139.5686966,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0504",
+      "name": "ポポラマーマ保谷店",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7478481,
+      "longitude": 139.5678968,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0505",
+      "name": "豚風",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7464394,
+      "longitude": 139.5665271,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0506",
+      "name": "大阪王将エミオ保谷店",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7480146,
+      "longitude": 139.5667519,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0507",
+      "name": "アジアンダイニングキッチン チャーリーズ保谷店",
+      "neighborhood": "東町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7477469,
+      "longitude": 139.5663987,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0508",
+      "name": "大衆酒場コイキ",
+      "neighborhood": "東町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7464571,
+      "longitude": 139.566494,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0509",
+      "name": "スバルクリーニング 本店",
+      "neighborhood": "東町",
+      "category": "クリーニング",
+      "latitude": 35.7457718,
+      "longitude": 139.5662939,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0510",
+      "name": "ボディケア カローレ",
+      "neighborhood": "東町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7460244,
+      "longitude": 139.5626905,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0511",
+      "name": "美容室 RAMBLE",
+      "neighborhood": "東町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7478531,
+      "longitude": 139.5682318,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0512",
+      "name": "be done",
+      "neighborhood": "東町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7476638,
+      "longitude": 139.5663292,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0513",
+      "name": "保谷整体サロン",
+      "neighborhood": "東町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.747651,
+      "longitude": 139.565479,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0514",
+      "name": "吉澤接骨院",
+      "neighborhood": "東町",
+      "category": "健康・医療",
+      "latitude": 35.7459295,
+      "longitude": 139.5626156,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0515",
+      "name": "産後ケアハウス 萌の木",
+      "neighborhood": "東町",
+      "category": "健康・医療",
+      "latitude": 35.7458492,
+      "longitude": 139.5628682,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0516",
+      "name": "山田豊次郎商店",
+      "neighborhood": "中町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7409256,
+      "longitude": 139.5596107,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0517",
+      "name": "くすりのダイイチ中町店",
+      "neighborhood": "中町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7367001,
+      "longitude": 139.5659585,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0518",
+      "name": "Fio Nuku",
+      "neighborhood": "中町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7429186,
+      "longitude": 139.560782,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0519",
+      "name": "ゆうしん接骨院 中町",
+      "neighborhood": "中町",
+      "category": "健康・医療",
+      "latitude": 35.7396064,
+      "longitude": 139.557499,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0520",
+      "name": "ファミリーマート 東伏見北口店",
+      "neighborhood": "富士町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7290714,
+      "longitude": 139.5642744,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0521",
+      "name": "いなげや西東京富士町店",
+      "neighborhood": "富士町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.731691,
+      "longitude": 139.557102,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0522",
+      "name": "三浦屋 東伏見店",
+      "neighborhood": "富士町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7295639,
+      "longitude": 139.565675,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0523",
+      "name": "みやざき精肉店",
+      "neighborhood": "富士町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7343415,
+      "longitude": 139.5618275,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0524",
+      "name": "明治牛乳 東伏見販売所",
+      "neighborhood": "富士町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.730627,
+      "longitude": 139.564865,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0525",
+      "name": "たべあるきのお店",
+      "neighborhood": "富士町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7318959,
+      "longitude": 139.5621508,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0526",
+      "name": "パンステージ・マイ 東伏見店",
+      "neighborhood": "富士町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7325483,
+      "longitude": 139.5661808,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0527",
+      "name": "トロワジュール",
+      "neighborhood": "富士町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7316002,
+      "longitude": 139.5660331,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0528",
+      "name": "有限会社 工藤薬局",
+      "neighborhood": "富士町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7295909,
+      "longitude": 139.5652989,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0529",
+      "name": "ウェルパーク薬局西東京富士町店",
+      "neighborhood": "富士町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7336186,
+      "longitude": 139.5690708,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0530",
+      "name": "ドラッグis",
+      "neighborhood": "富士町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7292119,
+      "longitude": 139.5643231,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0531",
+      "name": "くすりのダイイチ東伏見北口店",
+      "neighborhood": "富士町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7293989,
+      "longitude": 139.5623956,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0532",
+      "name": "いづもと電気",
+      "neighborhood": "富士町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7318797,
+      "longitude": 139.5599616,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0533",
+      "name": "イナガキサイクル",
+      "neighborhood": "富士町",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.730174,
+      "longitude": 139.565959,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0534",
+      "name": "定食の店成田屋",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7295975,
+      "longitude": 139.562573,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0535",
+      "name": "蕎麦 三晃菴",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7287661,
+      "longitude": 139.5653429,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0536",
+      "name": "和奏",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7301302,
+      "longitude": 139.5662298,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0537",
+      "name": "中華料理 暁",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7294707,
+      "longitude": 139.5644206,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0538",
+      "name": "アジア料理たらさん",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.729363,
+      "longitude": 139.5643611,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0539",
+      "name": "焼肉 成龍",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7302521,
+      "longitude": 139.5656418,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0540",
+      "name": "喫茶 、",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7293989,
+      "longitude": 139.5623956,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0541",
+      "name": "ラーメン専門 味一",
+      "neighborhood": "富士町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.729185,
+      "longitude": 139.564986,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0542",
+      "name": "美容室ぱーむ",
+      "neighborhood": "富士町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7321682,
+      "longitude": 139.5619733,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0543",
+      "name": "ANTIA東伏見",
+      "neighborhood": "富士町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7297757,
+      "longitude": 139.5653779,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0544",
+      "name": "美容室Kukka",
+      "neighborhood": "富士町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7290853,
+      "longitude": 139.5637436,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0545",
+      "name": "はり・きゅう好生堂",
+      "neighborhood": "富士町",
+      "category": "健康・医療",
+      "latitude": 35.729391,
+      "longitude": 139.56245,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0546",
+      "name": "DRAGEE",
+      "neighborhood": "富士町",
+      "category": "健康・医療",
+      "latitude": 35.7325193,
+      "longitude": 139.5630703,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0547",
+      "name": "リラクゼーションサロンゆるりん",
+      "neighborhood": "富士町",
+      "category": "健康・医療",
+      "latitude": 35.7293989,
+      "longitude": 139.5623956,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0548",
+      "name": "東伏見カイロプラクティック",
+      "neighborhood": "富士町",
+      "category": "健康・医療",
+      "latitude": 35.7293989,
+      "longitude": 139.5623956,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0549",
+      "name": "おそうじ本舗 東伏見店",
+      "neighborhood": "富士町",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7291188,
+      "longitude": 139.5627903,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0550",
+      "name": "西村カメラ",
+      "neighborhood": "富士町",
+      "category": "その他 写真店(フィルム現像・撮影)",
+      "latitude": 35.729208,
+      "longitude": 139.564235,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0551",
+      "name": "プチ果房 ヴァリエ",
+      "neighborhood": "富士町",
+      "category": "その他 ジャム各種と季節のピクルス",
+      "latitude": 35.7341846,
+      "longitude": 139.5643111,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0552",
+      "name": "学び舎 子どものみかた",
+      "neighborhood": "富士町",
+      "category": "その他 教育",
+      "latitude": 35.7293539,
+      "longitude": 139.5665725,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0553",
+      "name": "東伏見ふれあいプラザ直売会",
+      "neighborhood": "富士町",
+      "category": "その他 野菜直売",
+      "latitude": 35.7293989,
+      "longitude": 139.5623956,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0554",
+      "name": "一般社団法人 ココスポ東伏見",
+      "neighborhood": "富士町",
+      "category": "その他 スポーツクラブ",
+      "latitude": 35.7290702,
+      "longitude": 139.5625927,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0555",
+      "name": "セブンイレブン西東京保谷町三丁目店",
+      "neighborhood": "保谷町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7295213,
+      "longitude": 139.5544548,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0556",
+      "name": "いなげや 保谷町店",
+      "neighborhood": "保谷町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7319605,
+      "longitude": 139.5498256,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0557",
+      "name": "スーパーオザム保谷店",
+      "neighborhood": "保谷町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7374918,
+      "longitude": 139.5538562,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0558",
+      "name": "うなぎ浦安",
+      "neighborhood": "保谷町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7293651,
+      "longitude": 139.5536034,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0559",
+      "name": "やおやさん",
+      "neighborhood": "保谷町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7289523,
+      "longitude": 139.5529199,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0560",
+      "name": "株式会社倉喜屋",
+      "neighborhood": "保谷町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.728952,
+      "longitude": 139.55261,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0561",
+      "name": "菜のや",
+      "neighborhood": "保谷町",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7291844,
+      "longitude": 139.5531159,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0562",
+      "name": "細田米穀店",
+      "neighborhood": "保谷町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7291318,
+      "longitude": 139.5562188,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0563",
+      "name": "自家焙煎コーヒー豆の店 とりぷれっと",
+      "neighborhood": "保谷町",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7293463,
+      "longitude": 139.5546637,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0564",
+      "name": "おかし工房 マーブル",
+      "neighborhood": "保谷町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7302254,
+      "longitude": 139.5505753,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0565",
+      "name": "アジュール",
+      "neighborhood": "保谷町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7300628,
+      "longitude": 139.5514827,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0566",
+      "name": "日用品茶屋たいやぎ",
+      "neighborhood": "保谷町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7296988,
+      "longitude": 139.5519907,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0567",
+      "name": "くすりのダイイチ西武柳沢北口店",
+      "neighborhood": "保谷町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7287998,
+      "longitude": 139.5530223,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0568",
+      "name": "石井薬局 柳沢店",
+      "neighborhood": "保谷町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7295928,
+      "longitude": 139.5519977,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0569",
+      "name": "ひまわり薬局",
+      "neighborhood": "保谷町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.729399,
+      "longitude": 139.552383,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0570",
+      "name": "セイジョー柳沢店",
+      "neighborhood": "保谷町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7316091,
+      "longitude": 139.5502464,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0571",
+      "name": "ブックスミタカ",
+      "neighborhood": "保谷町",
+      "category": "書籍・事務用品",
+      "latitude": 35.7288975,
+      "longitude": 139.5517473,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0572",
+      "name": "フレンドリー フクヤ",
+      "neighborhood": "保谷町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7293524,
+      "longitude": 139.5535391,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0573",
+      "name": "橋本商店",
+      "neighborhood": "保谷町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7291041,
+      "longitude": 139.5528775,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0574",
+      "name": "手創りかばん工房 クラクフ",
+      "neighborhood": "保谷町",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7292401,
+      "longitude": 139.5533606,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0575",
+      "name": "マイスターメガネ",
+      "neighborhood": "保谷町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7291666,
+      "longitude": 139.552714,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0576",
+      "name": "パナピット タカイシ",
+      "neighborhood": "保谷町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7290909,
+      "longitude": 139.5529891,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0577",
+      "name": "Joshin 西東京保谷店",
+      "neighborhood": "保谷町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.732215,
+      "longitude": 139.549663,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0578",
+      "name": "ファースト電器",
+      "neighborhood": "保谷町",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.729802,
+      "longitude": 139.551963,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0579",
+      "name": "フローリスト保谷",
+      "neighborhood": "保谷町",
+      "category": "趣味・花園芸・玩具・ペット関連",
+      "latitude": 35.7292957,
+      "longitude": 139.5523593,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0580",
+      "name": "コミュニティー・レストラン「木々」",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7373703,
+      "longitude": 139.5532543,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0581",
+      "name": "おむすびころりん",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7290755,
+      "longitude": 139.5528014,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0582",
+      "name": "中国料理 栄福",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.729679,
+      "longitude": 139.5540731,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0583",
+      "name": "明喜屋",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7289125,
+      "longitude": 139.553189,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0584",
+      "name": "Bar楽園",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7338596,
+      "longitude": 139.5502606,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0585",
+      "name": "喫茶 宮殿",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7289192,
+      "longitude": 139.5529803,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0586",
+      "name": "Shi-lien",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7297998,
+      "longitude": 139.5520004,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0587",
+      "name": "鶏拉麺JIN",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7290551,
+      "longitude": 139.552734,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0588",
+      "name": "磯料理 巽",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7297294,
+      "longitude": 139.5525206,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0589",
+      "name": "お酒とお食事 ななし",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7288159,
+      "longitude": 139.5531138,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0590",
+      "name": "麺屋けい",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7304277,
+      "longitude": 139.5545247,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0591",
+      "name": "道とん堀 保谷店",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7318908,
+      "longitude": 139.5539657,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0592",
+      "name": "pirka",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7296936,
+      "longitude": 139.5516496,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0593",
+      "name": "柳沢うまいか亭",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7291046,
+      "longitude": 139.5528439,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0594",
+      "name": "みそカフェ.388",
+      "neighborhood": "保谷町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.730331,
+      "longitude": 139.5546305,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0595",
+      "name": "やき鶏おさ田",
+      "neighborhood": "保谷町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7290909,
+      "longitude": 139.5529891,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0596",
+      "name": "居酒屋 魚ゝ吉",
+      "neighborhood": "保谷町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7302254,
+      "longitude": 139.5505753,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0597",
+      "name": "一休",
+      "neighborhood": "保谷町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7300026,
+      "longitude": 139.5544832,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0598",
+      "name": "てらこや食堂あいおん",
+      "neighborhood": "保谷町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7286675,
+      "longitude": 139.5514241,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0599",
+      "name": "やぎさわ酒場夕べ屋",
+      "neighborhood": "保谷町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7288317,
+      "longitude": 139.5536693,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0600",
+      "name": "小料理屋きさく",
+      "neighborhood": "保谷町",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7366416,
+      "longitude": 139.5526921,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0601",
+      "name": "クリーニングの和光 柳沢店",
+      "neighborhood": "保谷町",
+      "category": "クリーニング",
+      "latitude": 35.72893,
+      "longitude": 139.5523542,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0602",
+      "name": "旭光舎クリーニング",
+      "neighborhood": "保谷町",
+      "category": "クリーニング",
+      "latitude": 35.7300724,
+      "longitude": 139.5544895,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0603",
+      "name": "ビューティサロン クイン",
+      "neighborhood": "保谷町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7298177,
+      "longitude": 139.5512819,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0604",
+      "name": "HAIR&FASHION GOLD",
+      "neighborhood": "保谷町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7290909,
+      "longitude": 139.5529891,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0605",
+      "name": "PROPELLER",
+      "neighborhood": "保谷町",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7292613,
+      "longitude": 139.5547632,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0606",
+      "name": "女性の不調ケア専門整体 Hiro整体院",
+      "neighborhood": "保谷町",
+      "category": "健康・医療",
+      "latitude": 35.7324713,
+      "longitude": 139.5508511,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0607",
+      "name": "榊原接骨院",
+      "neighborhood": "保谷町",
+      "category": "健康・医療",
+      "latitude": 35.7287529,
+      "longitude": 139.5510925,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0608",
+      "name": "たみ整骨院",
+      "neighborhood": "保谷町",
+      "category": "健康・医療",
+      "latitude": 35.7295689,
+      "longitude": 139.5517112,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0609",
+      "name": "ライフスポットマルヨシ",
+      "neighborhood": "保谷町",
+      "category": "その他 生活用品 金物店",
+      "latitude": 35.7285906,
+      "longitude": 139.5510229,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0610",
+      "name": "ドラッグセイムス 西東京保谷店",
+      "neighborhood": "保谷町",
+      "category": "その他 ドラッグストア",
+      "latitude": 35.7334401,
+      "longitude": 139.5493021,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0611",
+      "name": "エコメッセ水・緑・木地西東京店",
+      "neighborhood": "保谷町",
+      "category": "その他 チャリティショップ",
+      "latitude": 35.7284784,
+      "longitude": 139.5499583,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0612",
+      "name": "駄菓子屋ヤギサワベース",
+      "neighborhood": "保谷町",
+      "category": "その他 駄菓子・駄玩具",
+      "latitude": 35.7286273,
+      "longitude": 139.5503766,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0613",
+      "name": "オーケー東伏見店",
+      "neighborhood": "東伏見",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7235793,
+      "longitude": 139.5579714,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0614",
+      "name": "自然食糧店 美味",
+      "neighborhood": "東伏見",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.7279717,
+      "longitude": 139.563518,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0615",
+      "name": "ふしみだんご",
+      "neighborhood": "東伏見",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7281332,
+      "longitude": 139.5640801,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0616",
+      "name": "くすりのダイイチ東伏見店",
+      "neighborhood": "東伏見",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7277357,
+      "longitude": 139.5579167,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0617",
+      "name": "くすりのダイイチ東伏見稲荷店",
+      "neighborhood": "東伏見",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7277357,
+      "longitude": 139.5579167,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0618",
+      "name": "ひかり薬局",
+      "neighborhood": "東伏見",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.728553,
+      "longitude": 139.563763,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0619",
+      "name": "You夢",
+      "neighborhood": "東伏見",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7277357,
+      "longitude": 139.5579167,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0620",
+      "name": "ポップ",
+      "neighborhood": "東伏見",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7289632,
+      "longitude": 139.5590509,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0621",
+      "name": "Natural Pasta TARACHINE",
+      "neighborhood": "東伏見",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7280584,
+      "longitude": 139.5637153,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0622",
+      "name": "ステーキハウス テキサス東伏見店",
+      "neighborhood": "東伏見",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7284021,
+      "longitude": 139.5639748,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0623",
+      "name": "Linto Coffee",
+      "neighborhood": "東伏見",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7285785,
+      "longitude": 139.5633451,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0624",
+      "name": "居酒家 べっしゃん",
+      "neighborhood": "東伏見",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7226568,
+      "longitude": 139.5577222,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0625",
+      "name": "手羽夢中",
+      "neighborhood": "東伏見",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7286738,
+      "longitude": 139.5628059,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0626",
+      "name": "エステサロン・ピエスアーム",
+      "neighborhood": "東伏見",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7278273,
+      "longitude": 139.5647652,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0627",
+      "name": "hair make BIZEN 東伏見本店",
+      "neighborhood": "東伏見",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7277357,
+      "longitude": 139.5579167,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0628",
+      "name": "まる接骨院",
+      "neighborhood": "東伏見",
+      "category": "健康・医療",
+      "latitude": 35.7278399,
+      "longitude": 139.5648464,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0629",
+      "name": "柳谷鍼灸接骨院",
+      "neighborhood": "東伏見",
+      "category": "健康・医療",
+      "latitude": 35.7285364,
+      "longitude": 139.5634676,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0630",
+      "name": "疲労回復専門ボディチャージ",
+      "neighborhood": "東伏見",
+      "category": "健康・医療",
+      "latitude": 35.7285527,
+      "longitude": 139.5633488,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0631",
+      "name": "セブンイレブン西東京柳沢2丁目店",
+      "neighborhood": "柳沢",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7225217,
+      "longitude": 139.5568968,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0632",
+      "name": "セブンイレブン柳沢店",
+      "neighborhood": "柳沢",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7189235,
+      "longitude": 139.5502769,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0633",
+      "name": "セブンイレブン 西東京柳沢東伏見店",
+      "neighborhood": "柳沢",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7234922,
+      "longitude": 139.5572922,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0634",
+      "name": "ばんど青果",
+      "neighborhood": "柳沢",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7225692,
+      "longitude": 139.5562106,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0635",
+      "name": "宝商店",
+      "neighborhood": "柳沢",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7228933,
+      "longitude": 139.5545443,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0636",
+      "name": "VEGE SHOP",
+      "neighborhood": "柳沢",
+      "category": "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+      "latitude": 35.7279272,
+      "longitude": 139.5527494,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0637",
+      "name": "本間米店",
+      "neighborhood": "柳沢",
+      "category": "食料品（米・酒・茶・日用雑貨等）",
+      "latitude": 35.722886,
+      "longitude": 139.557408,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0638",
+      "name": "石窯パン工房ウーノ",
+      "neighborhood": "柳沢",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7276298,
+      "longitude": 139.55268,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0639",
+      "name": "一文字本舗",
+      "neighborhood": "柳沢",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7225834,
+      "longitude": 139.556191,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0640",
+      "name": "M's oven",
+      "neighborhood": "柳沢",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7284141,
+      "longitude": 139.5515092,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0641",
+      "name": "サンニイベイカー",
+      "neighborhood": "柳沢",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7286671,
+      "longitude": 139.5551356,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0642",
+      "name": "正札堂洋品店",
+      "neighborhood": "柳沢",
+      "category": "衣料品・靴・雑貨・寝具",
+      "latitude": 35.7222116,
+      "longitude": 139.5573299,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0643",
+      "name": "時計宝飾眼鏡 サガワ",
+      "neighborhood": "柳沢",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.7276298,
+      "longitude": 139.55268,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0644",
+      "name": "ナカシバ電器",
+      "neighborhood": "柳沢",
+      "category": "電気製品・時計・メガネ・写真",
+      "latitude": 35.728646,
+      "longitude": 139.555013,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0645",
+      "name": "モトショップ次郎",
+      "neighborhood": "柳沢",
+      "category": "ガソリンスタンド・車・自転車・タクシー",
+      "latitude": 35.724952,
+      "longitude": 139.555155,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0646",
+      "name": "メキシコレストラン デスペラード",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7223092,
+      "longitude": 139.5566633,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0647",
+      "name": "中華そば 一丸",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7282751,
+      "longitude": 139.5525959,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0648",
+      "name": "イタリアレストランアンジェロ",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7257742,
+      "longitude": 139.5519778,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0649",
+      "name": "ヤナカフェ フォレスタ",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7225701,
+      "longitude": 139.5544987,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0650",
+      "name": "コーヒーショップ チャオ",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7283041,
+      "longitude": 139.5527208,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0651",
+      "name": "一八亭",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7246315,
+      "longitude": 139.5571467,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0652",
+      "name": "３９クレープ",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7285681,
+      "longitude": 139.5554277,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0653",
+      "name": "武蔵野やぶそば",
+      "neighborhood": "柳沢",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7276298,
+      "longitude": 139.55268,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0654",
+      "name": "会津の台所 あかべこ家",
+      "neighborhood": "柳沢",
+      "category": "居酒屋・スナック",
+      "latitude": 35.7285347,
+      "longitude": 139.5554551,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0655",
+      "name": "美 ZEN HAIR 柳沢店",
+      "neighborhood": "柳沢",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.728402,
+      "longitude": 139.554677,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0656",
+      "name": "セカンドムウ",
+      "neighborhood": "柳沢",
+      "category": "理容・美容・エステティック",
+      "latitude": 35.7276959,
+      "longitude": 139.5532101,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0657",
+      "name": "こうせい整骨院・鍼灸院",
+      "neighborhood": "柳沢",
+      "category": "健康・医療",
+      "latitude": 35.7278212,
+      "longitude": 139.5531691,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0658",
+      "name": "有限会社山崎電気商会",
+      "neighborhood": "柳沢",
+      "category": "住まい・環境・工事・修理",
+      "latitude": 35.7284357,
+      "longitude": 139.5521668,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0659",
+      "name": "珈琲問屋Pベリー",
+      "neighborhood": "柳沢",
+      "category": "その他 珈琲前販売と喫茶",
+      "latitude": 35.7278649,
+      "longitude": 139.5531853,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0660",
+      "name": "秀農園",
+      "neighborhood": "柳沢",
+      "category": "その他 野菜直売",
+      "latitude": 35.7220621,
+      "longitude": 139.5517013,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0661",
+      "name": "セブンイレブン西東京新町6丁目店",
+      "neighborhood": "新町",
+      "category": "スーパー・コンビニ",
+      "latitude": 35.7166754,
+      "longitude": 139.54139,
+      "location_source": "neighborhood_centroid"
+    },
+    {
+      "id": "store_0662",
+      "name": "グーテドヨーコ",
+      "neighborhood": "新町",
+      "category": "パン・和菓子・洋菓子",
+      "latitude": 35.7150819,
+      "longitude": 139.5440467,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0663",
+      "name": "ウェルパーク西東京新町店",
+      "neighborhood": "新町",
+      "category": "薬局・化粧品・コンタクトレンズ",
+      "latitude": 35.7163903,
+      "longitude": 139.5324146,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0664",
+      "name": "旬菜屋おん",
+      "neighborhood": "新町",
+      "category": "飲食業（和食・中華・洋食・カフェ）",
+      "latitude": 35.7150378,
+      "longitude": 139.5440208,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0665",
+      "name": "エコ薬局",
+      "neighborhood": "新町",
+      "category": "健康・医療",
+      "latitude": 35.7144505,
+      "longitude": 139.5440982,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0666",
+      "name": "中川動物病院",
+      "neighborhood": "新町",
+      "category": "その他 動物病院",
+      "latitude": 35.716434,
+      "longitude": 139.5332916,
+      "location_source": "google_maps"
+    },
+    {
+      "id": "store_0667",
+      "name": "コーナン PROドイト 小金井公園店",
+      "neighborhood": "新町",
+      "category": "その他 ホームセンター",
+      "latitude": 35.711454,
+      "longitude": 139.5363158,
+      "location_source": "google_maps"
+    }
+  ],
+  "categories": [
+    "その他 お直し",
+    "その他 アンテナショップ",
+    "その他 インテリア",
+    "その他 インドアゴルフスクール",
+    "その他 エステ、化粧品販売",
+    "その他 カフェ及びミニばら盆栽の販売",
+    "その他 ゴルフ練習場",
+    "その他 サービス",
+    "その他 ジャム各種と季節のピクルス",
+    "その他 スポーツクラブ",
+    "その他 チャリティショップ",
+    "その他 ドラッグストア",
+    "その他 パソコン・スマホ・プログラミング教室",
+    "その他 パソコン修理・販売",
+    "その他 パーソナルジム",
+    "その他 ホームセンター",
+    "その他 リサイクルショップ",
+    "その他 リラクゼーションサロン",
+    "その他 リラクゼーション業",
+    "その他 介護用品",
+    "その他 児童福祉",
+    "その他 公衆浴場",
+    "その他 写真店(フィルム現像・撮影)",
+    "その他 写真業",
+    "その他 動物病院",
+    "その他 化粧品、食器、キッチン雑貨",
+    "その他 印刷物の製作・販売",
+    "その他 宝飾",
+    "その他 宝飾品",
+    "その他 家庭金物・荒物・雑貨",
+    "その他 小売 バック",
+    "その他 教育",
+    "その他 教育・学習支援業",
+    "その他 整体・リラクゼーション",
+    "その他 新聞販売店",
+    "その他 書店 （文房具の取り扱いはありません）",
+    "その他 洋服の仕立て・直し・リメイク",
+    "その他 漢方相談(保険調剤不可)",
+    "その他 珈琲前販売と喫茶",
+    "その他 生活用品 金物店",
+    "その他 生花店",
+    "その他 産前産後助産師相談/女性対象リラクゼーションサロン",
+    "その他 終活支援（遺言・相続）、創業支援（法人設立・融資申請）等",
+    "その他 総合スポーツ施設",
+    "その他 自然食品、健康食品販売",
+    "その他 葬祭業・お線香お数珠販売",
+    "その他 行政書士事務所",
+    "その他 貴金属、補聴器",
+    "その他 野菜直売",
+    "その他 駄菓子・駄玩具",
+    "その他 駄菓子屋",
+    "ガソリンスタンド・車・自転車・タクシー",
+    "クリーニング",
+    "スーパー・コンビニ",
+    "パン・和菓子・洋菓子",
+    "住まい・環境・工事・修理",
+    "健康・医療",
+    "居酒屋・スナック",
+    "書籍・事務用品",
+    "理容・美容・エステティック",
+    "生鮮食品（肉・魚・青果・豆腐・乳製品・惣菜・弁当等）",
+    "薬局・化粧品・コンタクトレンズ",
+    "衣料品・靴・雑貨・寝具",
+    "趣味・花園芸・玩具・ペット関連",
+    "電気製品・時計・メガネ・写真",
+    "食料品（米・酒・茶・日用雑貨等）",
+    "飲食業（和食・中華・洋食・カフェ）"
+  ],
+  "neighborhoods": [
+    "ひばりが丘",
+    "ひばりが丘北",
+    "下保谷",
+    "中町",
+    "住吉町",
+    "保谷町",
+    "北原町",
+    "北町",
+    "南町",
+    "向台町",
+    "富士町",
+    "新町",
+    "東伏見",
+    "東町",
+    "柳沢",
+    "栄町",
+    "泉町",
+    "田無町",
+    "緑町",
+    "芝久保町",
+    "西原町",
+    "谷戸町"
+  ]
+}

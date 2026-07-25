@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Geocode Stores</title>
+</head>
+<body>
+<h1>Store Geocoding Progress</h1>
+<div id="status">Starting...</div>
+<div id="progress"></div>
+<pre id="results"></pre>
+
+<script>
+const statusEl = document.getElementById('status');
+const progressEl = document.getElementById('progress');
+const resultsEl = document.getElementById('results');
+
+let allResults = [];
+let successCount = 0;
+let failCount = 0;
+
+async function geocodeStore(store, index, total) {
+    const query = encodeURIComponent(store.name + ' ' + store.neighborhood + ' 西東京市');
+    const url = 'https://www.google.co.jp/maps/search/' + query;
+    
+    statusEl.textContent = `[${index+1}/${total}] Searching: ${store.name}`;
+    
+    try {
+        const resp = await fetch(url);
+        const html = await resp.text();
+        
+        // Extract coordinates from page content
+        const match = html.match(/"ll":\{"lat":(\-?\d+\.\d+),"lng":(\-?\d+\.\d+)/);
+        if (match) {
+            allResults.push({
+                id: store.id,
+                name: store.name,
+                neighborhood: store.neighborhood,
+                category: store.category,
+                latitude: parseFloat(match[1]),
+                longitude: parseFloat(match[2]),
+                location_source: 'google_maps'
+            });
+            successCount++;
+            return true;
+        }
+    } catch(e) {
+        console.error(e);
+    }
+    
+    // Fallback to existing coordinates
+    allResults.push({
+        id: store.id,
+        name: store.name,
+        neighborhood: store.neighborhood,
+        category: store.category,
+        latitude: store.latitude,
+        longitude: store.longitude,
+        location_source: 'neighborhood_centroid_fallback'
+    });
+    failCount++;
+    return false;
+}
+
+async function start() {
+    try {
+        const resp = await fetch('http://localhost:8899/stores_with_coords.json');
+        const data = await resp.json();
+        const stores = data.stores;
+        const total = stores.length;
+        
+        statusEl.textContent = `Loaded ${total} stores. Starting geocoding...`;
+        
+        for (let i = 0; i < total; i++) {
+            await geocodeStore(stores[i], i, total);
+            
+            progressEl.textContent = `Progress: ${i+1}/${total} (${((i+1)/total*100).toFixed(1)}%)`;
+            
+            // Save progress every 50 stores
+            if ((i + 1) % 50 === 0) {
+                const progressData = {
+                    stores: allResults,
+                    categories: data.categories,
+                    neighborhoods: data.neighborhoods
+                };
+                localStorage.setItem('geocoding_progress', JSON.stringify(progressData));
+                localStorage.setItem('geocoding_status', JSON.stringify({
+                    processed: i+1,
+                    total: total,
+                    success: successCount,
+                    fallback: failCount
+                }));
+            }
+            
+            // Rate limiting
+            await new Promise(r => setTimeout(r, 1000));
+        }
+        
+        // Final save
+        const finalData = {
+            stores: allResults,
+            categories: data.categories,
+            neighborhoods: data.neighborhoods
+        };
+        localStorage.setItem('geocoding_results', JSON.stringify(finalData));
+        
+        statusEl.textContent = `Complete! Success: ${successCount}, Fallback: ${failCount}`;
+        resultsEl.textContent = JSON.stringify({ success: successCount, fallback: failCount, total: total }, null, 2);
+        
+    } catch(e) {
+        statusEl.textContent = 'Error: ' + e.message;
+        console.error(e);
+    }
+}
+
+start();
+</script>
+</body>
+</html>
