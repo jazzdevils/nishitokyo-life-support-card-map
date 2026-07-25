@@ -140,6 +140,7 @@ export function getSelectedCategories() {
     ).map(cb => cb.dataset.category);
 }
 
+
 // --- Expose for legacy compatibility ---
 // Assign module-scoped variables to window so index.html can still access them
 window.stores = stores;
