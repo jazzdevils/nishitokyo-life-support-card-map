@@ -20,7 +20,7 @@ let map = null;
 export function initMap() {
     map = L.map('map').setView([35.7600, 139.4900], 13);
     L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
-        maxZoom: 19,
+        maxZoom: 18,
         attribution: 'Map tiles by Stamen, under CC BY 3.0. Data by OpenStreetMap, under ODbL.'
     }).addTo(map);
 }
